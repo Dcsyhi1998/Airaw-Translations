@@ -1,0 +1,29 @@
+"Status bar date forma" = "ステータスバーの日付形式";
+
+"Enter @ if you want to start a new line." = "行を追加したい場合は、「@」を入力してくだしさい。";
+
+"Enabled" = "有効化";
+
+"Time Format:" = "時間フォーマット:";
+
+"Date Format:" = "日付フォーマット:";
+
+"Location:" = "ロケーション:";
+
+"Font Size: %i" = "文字のサイズ: %i";
+
+"Y Axis :" = "Y軸 :";
+
+"Status bar position" = "ステータスバーのポジション";
+
+"This option to apply the changes you need to restart CarPlay." = "変更を適用するにはCarPlayの再起動が必要になります。";
+
+"Weather Setting" = "天気設定";
+
+"Show weather icon" = "天気アイコンの表示";
+
+"Show temperature" = "気温の表示";
+
+"Battery Settings" = "バッテリー設定";
+
+"Show devices icons" = "バッテリーアイコンの表示";
