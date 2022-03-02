@@ -22,7 +22,15 @@
 
 "CarPlay dashboard app icon Bottom offset" = "CarPlayダッシュボードアプリアイコンボトムオフセット";
 
-"Default  Bottom Offset = 30" = "デフォルトボトムオフセット = 30";
+"Default Bottom Offset = -20" = "デフォルトボトムオフセット = -20";
+
+"CarPlay dashboard app icon Left offset" = "CarPlayダッシュボードアプリアイコンレフトオフセット";
+
+"Default left Offset = 20" = "デフォルトレフトオフセット = 20";
+
+"CarPlay dashboard app icon Right offset" = "CarPlayダッシュボードアプリアイコンライトオフセット";
+
+"Default right Offset = 10" = "デフォルトライトオフセット = 10";
 
 "Carplay App Label customize" = "Carplayアプリラベルのカスタマイズ";
 

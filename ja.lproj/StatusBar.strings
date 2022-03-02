@@ -1,3 +1,15 @@
+"Enable  / Disable" = "有効 / 無効";
+
+"Enable or Disable the entire Status Bar" = "ステータスバーの変更適用か無効";
+
+"Default status bar" = "デフォルトステータスバー";
+
+"Disable Status Bar" = "デフォルトのステータスバー無効";
+
+"Show or hide the default status bar" = "デフォルトのステータスバーの表示or非表示";
+
+"this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "この機能は、元のステータスバーを削除します。元のステータスバーを表示する場合は、この機能を無効にして元のステータスバーを表示します。";
+
 "Status bar date forma" = "ステータスバーの日付形式";
 
 "Enter @ if you want to start a new line." = "行を追加したい場合は、「@」を入力してくだしさい。";
@@ -27,3 +39,5 @@
 "Battery Settings" = "バッテリー設定";
 
 "Show devices icons" = "バッテリーアイコンの表示";
+
+"To show the weather I use the libPDDokdo Library.If it doesn't show you the Weather correctly open the weather app and then connect the device to CarPlay." = "天気の情報表示には、libPDDokdoライブラリを使用しています。天気の情報が正しく表示されない場合は、天気アプリを開いてCarPlayに再接続してみてください。";
