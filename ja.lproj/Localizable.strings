@@ -43,3 +43,49 @@
 "Register for email" = "メール登録";
 
 "I haven't registered my email." = "メール登録がされていません。";
+
+"Customize the status bar to your liking !!" = "ステータスバーを自由自在にカスタマイズしよう！！";
+
+"App selection" = "アプリ選択";
+
+"Precautions" = "注意事項";
+
+"App to reflect" = "反映するアプリ";
+
+"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "この方法で選択されたアプリの反映はCarBridgeとは異なります。\nですので、動作の違いが発生してしまいます。";
+
+"Backup/Restore" = "バックアップ/復元";
+
+"Create new backup" = "新しいバックアップを作成";
+
+"Widgets to CarPlay" = "ウィジェットの追加";
+
+"Widget placement page" = "ウィジェット配置ページ";
+
+"Universal mode places the Widgets on all CarPlay Pages.\nThe [Specify] mode is to specify on which Page you want to place the Widget." = "全ページを選択した場合はウィジェットをCarPlayの全ページに配置します。\nページ指定はテキストボックスに入力してあるページにのみウィジェットを配置します。";
+
+"Universal" = "全ページ";
+
+"Specify" = "ページ指定";
+
+"Widget position" = "ウィジェットポジション";
+
+"Do you want to apply the changes in CarPlay?" = "変更をCarPlayに反映しますか？";
+
+"Would you like to return to the default settings?" = "変更を初期状態に戻します？";
+
+"Yes" = "はい";
+
+"No" = "いいえ";
+
+"Do you want to select a customized image ??" = "カスタマイズした画像を選択しますか？";
+
+"Create New Backup:" = "新しいバックアップを作成:";
+
+"Backup Name" = "バックアップ名入力";
+
+"Backup name..." = "バックアップ名...";
+
+"Create Backup" = "バックアップ作成";
+
+"Do you want to restore 「%@」 ??" = "「%@」に復元しますか？";
