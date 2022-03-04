@@ -10,7 +10,7 @@
 
 "this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "この機能は、元のステータスバーを削除します。元のステータスバーを表示する場合は、この機能を無効にして元のステータスバーを表示します。";
 
-"Status bar date forma" = "ステータスバーの日付形式";
+"Status bar date format" = "ステータスバーの日付形式";
 
 "Enter @ if you want to start a new line." = "行を追加したい場合は、「@」を入力してくだしさい。";
 
