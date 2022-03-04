@@ -1,0 +1,43 @@
+"Enable  / Disable" = "habilitar / deshabilitar";
+
+"Enable or Disable the entire Status Bar" = "Habilitar o deshabilitar toda la configuración de barra de estado";
+
+"Default status bar" = "Barra de estado predeterminada";
+
+"Disable Status Bar" = "Deshabilitar barra de estado original";
+
+"Show or hide the default status bar" = "Show or hide the default status bar";
+
+"this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "esta función elimina la barra de estado original, si desea mostrar la barra de estado original, desactive esta función para mostrar el original.";
+
+"Status bar date format" = "Formato de fecha de la barra de estado";
+
+"Enter @ if you want to start a new line." = "Ingrese @ si desea comenzar una nueva línea.";
+
+"Enabled" = "Habilitar";
+
+"Time Format:" = "Formato de tiempo:";
+
+"Date Format:" = "Formato de fecha:";
+
+"Location:" = "Ubicación:";
+
+"Font Size: %i" = "Tamaño de letra: %i";
+
+"Y Axis :" = "Y Axis :";
+
+"Status bar position" = "Posición de la barra de estado";
+
+"This option to apply the changes you need to restart CarPlay." = "Esta opción para aplicar los cambios necesita reiniciar CarPlay.";
+
+"Weather Settings" = "Configuración del clima";
+
+"Show weather icon" = "Mostrar icono del tiempo";
+
+"Show temperature" = "Mostrar temperatura";
+
+"Battery Settings" = "Configuración de la batería";
+
+"Show devices icons" = "Mostrar iconos de dispositivos";
+
+"To show the weather I use the libPDDokdo Library.If it doesn't show you the Weather correctly open the weather app and then connect the device to CarPlay." = "Para mostrar el clima, uso la biblioteca libPDDokdo. Si no le muestra el clima correctamente, abra la aplicación del Clima y luego conecte el dispositivo a CarPlay.";

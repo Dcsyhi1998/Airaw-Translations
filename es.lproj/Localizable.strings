@@ -1,0 +1,91 @@
+"Choose your option" = "Elige tu opción";
+
+"Cancel" = "Cancelar";
+
+"Donate with PayPal" = "Donar con PayPal";
+
+"Share Tweak" = "Compartir Airaw";
+
+"Respring" = "Reiniciar";
+
+"Restart CarPlay" = "Reiniciar CarPlay";
+
+"Choose your option\nIf you just want to restart the CarPlay screen select the first option." = "Elige tu opción\nSi solo quieres reiniciar la pantalla CarPlay selecciona la primera opción.";
+
+"Reflect Change on CarPlay" = "Refleja los cambio en CarPlay";
+
+"Reset Icon Layout" = "Restablecer diseño de iconos";
+
+"Let's change the layout of the CarPlay screen." = "Cambia el diseño de CarPlay.";
+
+"Change the wallpaper to your liking." = "Cambia el fondo de pantalla a tu gusto";
+
+"Edit" = "Editar";
+
+"Choose image" = "Elegir imagen";
+
+"Added Widgets" = "Widgets agregados";
+
+"No Widgets added" = "Ningún widgets agregado";
+
+"Add Widget" = "Añadir widget";
+
+"Add your favorite widgets to your CarPlay." = "Agregue sus widgets favoritos a su CarPlay.";
+
+"Support" = "Soporte";
+
+"what kind of support do you want?" = "¿Qué tipo de soporte quieres?";
+
+"Function Request" = "Solicitud de función";
+
+"Bug report" = "Informar error";
+
+"Register for email" = "Registrar correo electrónico";
+
+"I haven't registered my email." = "No se a registrado correo electrónico.";
+
+"Customize the status bar to your liking !!" = "Personaliza la barra de estado a tu gusto!!";
+
+"App selection" = "Selección de aplicaciones";
+
+"Precautions" = "Precauciones";
+
+"App to reflect" = "Aplicación para reflexionar";
+
+"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "La aplicación seleccionada de esta manera obtiene la vista de la aplicación de una manera diferente a CarBridge.\nPor lo tanto, tenga en cuenta que funciona de manera diferente a CarBridge.";
+
+"Backup/Restore" = "Respaldo/Restaurar";
+
+"Create new backup" = "Crear nuevo Respaldo";
+
+"Widgets to CarPlay" = "Agregar widget";
+
+"Widget placement page" = "Página de colocación de widget";
+
+"Universal mode places the Widgets on all CarPlay Pages.\nThe [Specify] mode is to specify on which Page you want to place the Widget." = "Si selecciona todas las páginas, el widget se colocará en todas las páginas de CarPlay. \ nLa especificación de la página coloca el widget solo en la página ingresada en el cuadro de texto.";
+
+"Universal" = "Todas las páginas";
+
+"Specify" = "Especificar";
+
+"Widget position" = "Posición del widget";
+
+"Do you want to apply the changes in CarPlay?" = "¿Quieres aplicar los cambios en CarPlay?";
+
+"Would you like to return to the default settings?" = "¿Le gustaría volver a la configuración predeterminada?";
+
+"Yes" = "Si";
+
+"No" = "No";
+
+"Do you want to select a customized image ??" = "¿Quieres seleccionar una imagen personalizada?";
+
+"Create New Backup:" = "Crear nuevo Respaldo:";
+
+"Backup Name" = "Nombre de copia de seguridad";
+
+"Backup name..." = "Nombre...";
+
+"Create Backup" = "Crear Respaldo";
+
+"Do you want to restore 「%@」 ??" = "¿Quieres restaurar 「%@」?";

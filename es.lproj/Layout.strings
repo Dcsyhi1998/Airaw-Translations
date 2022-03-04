@@ -1,0 +1,43 @@
+"Generate transparent icon" = "Crear icono transparente";
+
+"After generating the transparent icon, add it to CarPlay with CarBridge or CarPlay Enable." = "Después de generar el ícono transparente, agréguelo a CarPlay con CarBridge o CarPlay Enable.";
+
+"The number of icons : %i" = "El número de iconos : %i";
+
+"The number of icons : 1" = "El número de iconos : 1";
+
+"Create Blank Icons" = "Crear icons";
+
+"CarPlay Setings" = "Ajustes de CarPlay";
+
+"Number of CarPlay dashboard app rows" = "Número de filas de la Apps del tablero de CarPlay";
+
+"Number of CarPlay dashboard app columns" = "Número de columnas de la Apps del tablero de CarPlay";
+
+"CarPlay dashboard app icon size" = "Tamaño de icono de CarPlay";
+
+"CarPlay dashboard app icon Top offset" = "CarPlay dashboard app icon Top offset";
+
+"Default Top Offset = 30" = "por defecto = 30";
+
+"CarPlay dashboard app icon Bottom offset" = "CarPlay dashboard app icon Bottom offset";
+
+"Default Bottom Offset = -20" = "por defecto = -20";
+
+"CarPlay dashboard app icon Left offset" = "CarPlay dashboard app icon Left offset";
+
+"Default left Offset = 20" = "por defecto = 20";
+
+"CarPlay dashboard app icon Right offset" = "CarPlay dashboard app icon Right offset";
+
+"Default right Offset = 10" = "por defecto = 10";
+
+"Carplay App Label customize" = "Personalizar etiqueta de CarPlay";
+
+"Hide Icon Label (CarPlay)" = "Ocultar etiqueta de icono";
+
+"Hide Label Background (CarPlay)" = "Ocultar fondo de etiqueta";
+
+"Icon Label Color (CarPlay)" = "Color de la etiqueta del icono";
+
+"Hide Dots (CarPlay)" = "Ocultar puntos";
