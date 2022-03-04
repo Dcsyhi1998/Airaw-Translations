@@ -1,0 +1,91 @@
+"Choose your option" = "请选择";
+
+"Cancel" = "取消";
+
+"Donate with PayPal" = "PayPal捐赠";
+
+"Share Tweak" = "分享Airaw插件";
+
+"Respring" = "注销";
+
+"Restart CarPlay" = "重启CarPlay";
+
+"Choose your option\nIf you just want to restart the CarPlay screen select the first option." = "请选择一个选项，如果仅需要重启Carplay，请选择第一个选项";
+
+"Reflect Change on CarPlay" = "应用改动到CarPlay";
+
+"Reset Icon Layout" = "重置图标布局";
+
+"Let's change the layout of the CarPlay screen." = "开始自定义Carplay图标布局";
+
+"Change the wallpaper to your liking." = "选择你喜爱的壁纸";
+
+"Edit" = "编辑";
+
+"Choose image" = "选择图片";
+
+"Added Widgets" = "已添加的小部件";
+
+"No Widgets added" = "未添加小部件";
+
+"Add Widget" = "添加小部件";
+
+"Add your favorite widgets to your CarPlay." = "将您最喜欢的小部件添加到 CarPlay";
+
+"Support" = "技术支持";
+
+"what kind of support do you want?" = "你需要什么技术支持？";
+
+"Function Request" = "新功能";
+
+"Bug report" = "Bug报告";
+
+"Register for email" = "账号注册";
+
+"I haven't registered my email." = "还没有账号";
+
+"Customize the status bar to your liking !!" = "让我们自由定制状态栏！！";
+
+"App selection" = "选择App";
+
+"Precautions" = "注意事项";
+
+"App to reflect" = "镜像的App";
+
+"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "以这种方式选择的应用程序的反映与 CarBridge 不同。所以，在操作上有一定区别";
+
+"Backup/Restore" = "备份/恢复";
+
+"Create new backup" = "创建新备份";
+
+"Widgets to CarPlay" = "添加小部件";
+
+"Widget placement page" = "小部件放置页面";
+
+"Universal mode places the Widgets on all CarPlay Pages.\nThe [Specify] mode is to specify on which Page you want to place the Widget." = "如果选择 全局，小部件将在所有页面生效，指定 则仅在选中的页面生效。";
+
+"Universal" = "全局";
+
+"Specify" = "指定";
+
+"Widget position" = "小部件位置";
+
+"Do you want to apply the changes in CarPlay?" = "在Carplay上生效当前改动？";
+
+"Would you like to return to the default settings?" = "是否需要重置所有设置？";
+
+"Yes" = "是";
+
+"No" = "否";
+
+"Do you want to select a customized image ??" = "是否选择自定义图片？";
+
+"Create New Backup:" = "创建新备份:";
+
+"Backup Name" = "备份名称";
+
+"Backup name..." = "备份名称...";
+
+"Create Backup" = "开始备份";
+
+"Do you want to restore 「%@」 ??" = "是否恢复备份「%@」？";
