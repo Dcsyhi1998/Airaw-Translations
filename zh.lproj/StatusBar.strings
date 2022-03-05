@@ -1,0 +1,43 @@
+"Enable  / Disable" = "启用 / 禁用";
+
+"Enable or Disable the entire Status Bar" = "启用或禁用状态栏自定义";
+
+"Default status bar" = "默认状态栏";
+
+"Disable Status Bar" = "禁用状态栏自定义";
+
+"Show or hide the default status bar" = "显示或隐藏默认状态栏";
+
+"this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "该功能会屏蔽原生状态栏，如果想保留原生状态栏，请关闭该选项。";
+
+"Status bar date format" = "状态栏时间格式";
+
+"Enter @ if you want to start a new line." = "格式请使用「@」换行";
+
+"Enabled" = "启用化";
+
+"Time Format:" = "时间格式:";
+
+"Date Format:" = "日期格式:";
+
+"Location:" = "位置:";
+
+"Font Size: %i" = "字体大小: %i";
+
+"Y Axis :" = "Y轴 :";
+
+"Status bar position" = "状态栏位置";
+
+"This option to apply the changes you need to restart CarPlay." = "修改本项，需要重启 CarPlay 生效";
+
+"Weather Settings" = "天气设置";
+
+"Show weather icon" = "显示天气图标";
+
+"Show temperature" = "显示温度";
+
+"Battery Settings" = "电量设置";
+
+"Show devices icons" = "显示设备图标";
+
+"To show the weather I use the libPDDokdo Library.If it doesn't show you the Weather correctly open the weather app and then connect the device to CarPlay." = "显示天气信息，需要libPDDokdo依赖。如果天气信息显示异常，请打开天气App后连接Carplay";
