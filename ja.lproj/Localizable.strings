@@ -89,3 +89,5 @@
 "Create Backup" = "バックアップ作成";
 
 "Do you want to restore 「%@」 ??" = "「%@」に復元しますか？";
+
+"Not all apps selected this way will work properly. Please note that some apps may not work.\n\nI haven't got an iOS 13 device, so I haven't been able to test it. It may not work properly." = "この方法で選択されたアプリは全部が正常に動作するわけではありません。中には動作しないアプリもあるので注意してください。\n\n※iOS13のデバイスを持ち合わせていないためテストができていません。正常な動作しない場合があります。";
