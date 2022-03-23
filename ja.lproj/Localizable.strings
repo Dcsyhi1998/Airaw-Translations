@@ -88,6 +88,28 @@
 
 "Create Backup" = "バックアップ作成";
 
-"Do you want to restore 「%@」 ??" = "「%@」に復元しますか？";
+"Do you want to restore to \"%@\" ?" = "「%@」に復元しますか？";
 
 "Not all apps selected this way will work properly. Please note that some apps may not work.\n\nI haven't got an iOS 13 device, so I haven't been able to test it. It may not work properly." = "この方法で選択されたアプリは全部が正常に動作するわけではありません。中には動作しないアプリもあるので注意してください。\n\n※iOS13のデバイスを持ち合わせていないためテストができていません。正常な動作しない場合があります。";
+
+"Icon Layout" = "アイコンレイアウト";
+
+"Wallpaper" = "壁紙";
+
+"Create" = "生成";
+
+"Warning" = "注意";
+
+"To create transparent icons it may take more than 10 seconds." = "透明アイコンの生成に10秒以上かかる場合があります。";
+
+"Button position" = "ボタンのポジション";
+
+"Special Thanks" = "特別な感謝";
+
+"Status Bar" = "ステータスバー";
+
+"Show or hide the default status bar" = "デフォルトのステータスバーの表示or非表示";
+
+"Reset Status Bar" = "ステータスバー設定のリセット";
+
+"Reset Wallpaper" = "壁紙設定のリセット";
