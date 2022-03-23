@@ -1,7 +1,16 @@
-{
-    "Artwork Wallpaper" = "\U062e\U0644\U0641\U064a\U0629 \U0641\U0646\U064a\U0629";
-    Fict = "\U062a\U0643\U064a\U0641\U064a\U0629";
-    "Only Wallpaper" = "\U062e\U0644\U0641\U064a\U0627\U062a \U0641\U0642\U0637";
-    "Wallpaper Slide Show" = "\U062e\U0644\U0641\U064a\U0629 \U0639\U0631\U0636 \U0627\U0644\U0634\U0631\U0627\U0626\U062d";
-    default = "\U0625\U0641\U062a\U0631\U0627\U0636\U064a";
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Artwork Wallpaper</key>
+	<string>خلفية فنية</string>
+	<key>Fict</key>
+	<string>تكيفية</string>
+	<key>Only Wallpaper</key>
+	<string>خلفيات فقط</string>
+	<key>Wallpaper Slide Show</key>
+	<string>خلفية عرض الشرائح</string>
+	<key>default</key>
+	<string>إفتراضي</string>
+</dict>
+</plist>

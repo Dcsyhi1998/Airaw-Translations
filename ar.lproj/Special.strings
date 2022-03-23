@@ -1,7 +1,16 @@
-{
-    "API Information" = "\U0645\U0639\U0644\U0648\U0645\U0627\U062a API";
-    "Add or revise translations" = "\U0625\U0636\U0627\U0641\U0629 \U0623\U0648 \U0645\U0631\U0627\U062c\U0639\U0629 \U0627\U0644\U062a\U0631\U062c\U0645\U0629";
-    "Create a widget using Airaw API !!" = "\U0625\U0646\U0634\U0627\U0621 \U0639\U0646\U0635\U0631 \U0648\U0627\U062c\U0647\U0629 \U0645\U0633\U062a\U062e\U062f\U0645 \U0628\U0627\U0633\U062a\U062e\U062f\U0627\U0645 Airaw API!";
-    LICENSE = "\U0627\U0644\U0631\U062e\U0635";
-    translation = "\U0627\U0644\U062a\U0631\U062c\U0645\U0629";
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API Information</key>
+	<string>معلومات API</string>
+	<key>Add or revise translations</key>
+	<string>إضافة أو مراجعة الترجمة</string>
+	<key>Create a widget using Airaw API !!</key>
+	<string>إنشاء عنصر واجهة مستخدم باستخدام Airaw API!</string>
+	<key>LICENSE</key>
+	<string>الرخص</string>
+	<key>translation</key>
+	<string>الترجمة</string>
+</dict>
+</plist>
