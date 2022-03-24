@@ -117,3 +117,43 @@
 "Backup restored successfuly" = "バックアップが正常に復元されました";
 
 "Page :" = "ページ :";
+
+"Y Axis :" = "Y軸 :";
+
+"X Axis :" = "X軸 :";
+
+"Width :" = "幅 :";
+
+"Size :" = "サイズ :";
+
+"Open URL" = "URLを開く";
+
+"What is a time format?" = "時間形式とは？";
+
+"If you want to know more, tap the URL button to check.\n\nexample:\n14:40:42\t\tHH:mm:ss" = "詳細を知りたい場合は、URLボタンをタップして確認してください。\n\n例:\n14:40:42\t\tHH:mm:ss";
+
+"What is a date format?" = "日付形式とは？";
+
+"If you want to know more, tap the URL button to check.\n\nexample:\nWednesday, May 19, 2021\nEEEE, MMM d, yyyy" = "詳細を知りたい場合は、URLボタンをタップして確認してください。\n\n例:\nWednesday, May 19, 2021\nEEEE, MMM d, yyyy";
+
+"What is the Location format?" = "ロケーション形式とは？";
+
+"If you want to select another format, please check the url." = "別のフォーマットを選択したい場合は、URLを開き確認してください。";
+
+"Wallpaper Slideshow" = "壁紙のスライドショー";
+
+"Time interval: %is" = "時間間隔：%i秒";
+
+"Time interval: 2s" = "時間間隔：2秒";
+
+"Set Interval" = "間隔の変更";
+
+"Wallpapers" = "複数の壁紙";
+
+"Wallpaper No.%d" = "壁紙 No.%d";
+
+"Add Wallpaper" = "壁紙の追加";
+
+"ups! past the limit" = "壁紙枚数上限に達しました";
+
+"You can put 5 wallpaper only.\ndelete an image so you can put a new one." = "壁紙枚数は5枚までしか配置できません。\n壁紙を変更するには壁紙1枚を削除してください。";
