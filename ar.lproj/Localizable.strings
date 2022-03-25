@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Add Wallpaper</key>
+	<string>إضافة خلفية</string>
 	<key>Add Widget</key>
 	<string>إضافة الودجت</string>
 	<key>Add your favorite widgets to your CarPlay.</key>
@@ -62,6 +64,26 @@ If you just want to restart the CarPlay screen select the first option.</key>
 	<string>لم أسجل بريدي الإلكتروني.</string>
 	<key>Icon Layout</key>
 	<string>تخطيط الأيقونات</string>
+	<key>If you want to know more, tap the URL button to check.
+
+example:
+14:40:42		HH:mm:ss</key>
+	<string>إذا كنت تريد معرفة المزيد ، فانقر فوق زر URL للتحقق.
+
+مثال:
+١٤:٤٠:٤٢		HH:mm:ss</string>
+	<key>If you want to know more, tap the URL button to check.
+
+example:
+Wednesday, May 19, 2021
+EEEE, MMM d, yyyy</key>
+	<string>إذا كنت تريد معرفة المزيد ، فانقر فوق زر URL للتحقق.
+
+مثال:
+الخميس, شعبان ٢١, ١٤٤٣
+EEEE, MMM d, yyyy</string>
+	<key>If you want to select another format, please check the url.</key>
+	<string>إذا كنت تريد تحديد تنسيق آخر ، يرجى التحقق من عنوان url.</string>
 	<key>Let's change the layout of the CarPlay screen.</key>
 	<string>دعنا نغير تخطيط شاشة CarPlay.</string>
 	<key>No</key>
@@ -74,10 +96,12 @@ I haven't got an iOS 13 device, so I haven't been able to test it. It may not wo
 	<string>لن تعمل جميع التطبيقات المحددة بهذه الطريقة بشكل صحيح.  يرجى ملاحظة أن بعض التطبيقات قد لا تعمل.
 
 ليس لدي جهاز iOS 13 ، لذلك لم أتمكن من اختباره.  قد لا تعمل بشكل صحيح.</string>
+	<key>Open URL</key>
+	<string>فتح URL</string>
 	<key>Page :</key>
 	<string>الصفحة :</string>
 	<key>Precautions</key>
-	<string>احتياطات</string>
+	<string>ملاحظة:</string>
 	<key>Reflect Change on CarPlay</key>
 	<string>قم بتطبيق التغييرات على CarPlay</string>
 	<key>Register for email</key>
@@ -92,10 +116,14 @@ I haven't got an iOS 13 device, so I haven't been able to test it. It may not wo
 	<string>إعادة تشغيل سريعه</string>
 	<key>Restart CarPlay</key>
 	<string>إعادة تشغيل CarPlay</string>
+	<key>Set Interval</key>
+	<string>تعيين الفاصل الزمني</string>
 	<key>Share Tweak</key>
 	<string>نشر الأداة</string>
 	<key>Show or hide the default status bar</key>
 	<string>إظهار أو إخفاء شريط الحالة الافتراضي</string>
+	<key>Size :</key>
+	<string>الحجم :</string>
 	<key>Special Thanks</key>
 	<string>شكر خاص</string>
 	<key>Specify</key>
@@ -108,8 +136,12 @@ I haven't got an iOS 13 device, so I haven't been able to test it. It may not wo
 So please note that it works differently from CarBridge.</key>
 	<string>ميزة "اختيار التطبيق"  تأتي بطريقة عرض التطبيق بطريقة مختلفة عن CarBridge.
  لذا يرجى ملاحظة أنه يعمل بشكل مختلف عن CarBridge.</string>
+	<key>Time interval: %is</key>
+	<string>الفاصل الزمني: %is</string>
+	<key>Time interval: 2s</key>
+	<string>الفاصل الزمني：٢ث</string>
 	<key>To create transparent icons it may take more than 10 seconds.</key>
-	<string>透明アイコンの生成に10秒以上かかる場合があります。</string>
+	<string>قد يستغرق الأمر أكثر من 10 ثوانٍ لإنشاء ايقونة شفافة.</string>
 	<key>Universal</key>
 	<string>الكل</string>
 	<key>Universal mode places the Widgets on all CarPlay Pages.
@@ -118,18 +150,42 @@ The [Specify] mode is to specify on which Page you want to place the Widget.</ke
  وضع [محدد] هو لتحديد الصفحة التي تريد وضع عنصر واجهة المستخدم عليها.</string>
 	<key>Wallpaper</key>
 	<string>الخلفية</string>
+	<key>Wallpaper No.%d</key>
+	<string>الخلفية No.%d</string>
+	<key>Wallpaper Slideshow</key>
+	<string>خلفية عرض الشرائح</string>
+	<key>Wallpapers</key>
+	<string>الخلفيات</string>
 	<key>Warning</key>
 	<string>تحذير</string>
+	<key>What is a date format?</key>
+	<string>ما هو تنسيق التاريخ؟</string>
+	<key>What is a time format?</key>
+	<string>ما هو تنسيق الوقت؟</string>
+	<key>What is the Location format?</key>
+	<string>ما هو تنسيق الموقع؟</string>
 	<key>Widget placement page</key>
 	<string>تنسيق الودجت بالصفحه</string>
 	<key>Widget position</key>
 	<string>موقع الودجت</string>
 	<key>Widgets to CarPlay</key>
 	<string>إضافة الودجت</string>
+	<key>Width :</key>
+	<string>العرض :</string>
 	<key>Would you like to return to the default settings?</key>
 	<string>هل ترغب في العودة إلى الإعدادات الافتراضية؟</string>
+	<key>X Axis :</key>
+	<string>المحور س :</string>
+	<key>Y Axis :</key>
+	<string>المحور ص :</string>
 	<key>Yes</key>
 	<string>نعم</string>
+	<key>You can put 5 wallpaper only.
+delete an image so you can put a new one.</key>
+	<string>يمكنك وضع 5 خلفيات فقط.
+احذف صورة حتى تتمكن من وضع صورة جديدة.</string>
+	<key>ups! past the limit</key>
+	<string>اوه! لقد وصلت إلى الحد الأقصى من عدد الخلفيات</string>
 	<key>what kind of support do you want?</key>
 	<string>ما نوع الدعم الذي تريده؟</string>
 </dict>

@@ -44,7 +44,7 @@
 	<key>Weather Settings</key>
 	<string>إعدادات الطقس</string>
 	<key>Y Axis :</key>
-	<string>Y軸 :</string>
+	<string>المحور ص:</string>
 	<key>this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original.</key>
 	<string>تحذف هذه الوظيفة شريط الحالة الأصلي
 إذا كنت تريد إظهار شريط الحالة الأصلي فقم بإلغاء تنشيط هذه الميزة لإظهار الأصل.</string>
