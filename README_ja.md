@@ -4,32 +4,8 @@
 この微調整により、Carplayの追加の拡張機能が提供されます。CarPlayは通常、2×4のアイコングリッドをサポートし、ホーム画面に合計8つのアイコンを表示します。 一部の人々にとってはこれでは不十分かもしれません、そしてそれは _Airaw_ が役に立ちます。[iDownloadBlog レビュー][2]をチェックしてください。\
 AirawはCarPlayをお好みに合わせてカスタマイズするように作られています。 必要に応じて壁紙を変更したり、ステータスバーをカスタマイズしたりできます。
 
-<style>
-    .screenshotWrapper {
-        overflow-x: auto;
-        overflow-y: hidden;
-        max-height: 300px;
-        white-space: nowrap;
-        user-select: none;
-        -webkit-user-select: none;
-        -khtml-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-    }
-    .screenshot {
-        display: inline-block;
-        max-width: 100%;
-        max-height: 100%;
-        padding-right: 5px;
-    }
-</style>
-<div class="screenshotWrapper" style="height: 300px;">
+<div style="height: 300px;">
     <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo0.png" id="screenshot0">
-    <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo.png" id="screenshot1">
-    <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo1.png" id="screenshot2">
-    <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo2.png" id="screenshot3">
-    <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo3.png" id="screenshot4">
-    <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo4.png" id="screenshot5">
 </div><br>
 
 Airawの機能が気にいった場合は[PayPal](https://www.paypal.me/DevDcsyhi)での寄付は大歓迎です。
@@ -38,7 +14,7 @@ Airawの機能が気にいった場合は[PayPal](https://www.paypal.me/DevDcsyh
 
 # 開発者向けAiraw API
 Airaw APIは、CarPlay用のウィジェットの作成を容易にするのに役立ちます。\
-詳細については、[Airaw API]()ページをご覧ください。
+詳細については、[Airaw API][4]ページをご覧ください。
 より詳しい詳細を知りたい時は、[Twitter DM][1]で返答します。
 
 ## 含まれている機能
@@ -116,3 +92,4 @@ Tweakのクラックしているユーザーにはサポート致しません。
 [1]:https://twitter.com/intent/follow?screen_name=linux_n1
 [2]:https://www.idownloadblog.com/2021/06/11/airaw/
 [3]:https://twitter.com/linux_n1/status/1486356268180643841?s=20&t=GNpcgOkSLXcmHSI3L-QFOg
+[4]:https://dcsyhi1998.github.io/airawapi
