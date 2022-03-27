@@ -41,3 +41,11 @@
 "Show devices icons" = "バッテリーアイコンの表示";
 
 "To show the weather I use the libPDDokdo Library.If it doesn't show you the Weather correctly open the weather app and then connect the device to CarPlay." = "天気の情報表示には、libPDDokdoライブラリを使用しています。天気の情報が正しく表示されない場合は、天気アプリを開いてCarPlayに再接続してみてください。";
+
+"Other" = "その他";
+
+"Remove battery icon" = "バッテリーアイコンを削除";
+
+"Devices with a Bluetooth connection to CarPlay will display a battery icon. This option is to remove the default battery icon." = "CarPlayにBluetooth接続されているデバイスには、バッテリーアイコンが表示されます。 このオプションは、デフォルトのバッテリーアイコンを削除するためのものです。";
+
+"Remove splash screen" = "スプラッシュスクリーン削除";

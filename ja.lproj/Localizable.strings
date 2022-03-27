@@ -157,3 +157,9 @@
 "ups! past the limit" = "壁紙枚数上限に達しました";
 
 "You can put 5 wallpaper only.\ndelete an image so you can put a new one." = "壁紙枚数は5枚までしか配置できません。\n壁紙を変更するには壁紙1枚を削除してください。";
+
+"Screen Orientation correction" = "画面の向きの修正";
+
+"Force rotation" = "強制回転";
+
+"This method is for people who do not work properly on the landscape screen. disable this feature." = "この方法は、横向きの画面で適切に機能しない人向けです。 この機能を無効にして試してみてください。";
