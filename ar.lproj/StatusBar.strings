@@ -8,6 +8,8 @@
 	<string>صيغة التاريخ:</string>
 	<key>Default status bar</key>
 	<string>شريط الحالة الافتراضي</string>
+	<key>Devices with a Bluetooth connection to CarPlay will display a battery icon. This option is to remove the default battery icon.</key>
+	<string>ستعرض رمز البطارية للأجهزة التي تحتوي على اتصال Bluetooth بـ CarPlay.  هذا الخيار يقوم بإزالة رمز البطارية الافتراضي.</string>
 	<key>Disable Status Bar</key>
 	<string>تعطيل شريط الحالة</string>
 	<key>Enable  / Disable</key>
@@ -22,6 +24,12 @@
 	<string>حجم الخط: %i</string>
 	<key>Location:</key>
 	<string>الموقع:</string>
+	<key>Other</key>
+	<string>آخر</string>
+	<key>Remove battery icon</key>
+	<string>إزالة رمز البطارية</string>
+	<key>Remove splash screen</key>
+	<string>إزالة شاشة البداية</string>
 	<key>Show devices icons</key>
 	<string>إظهار أيقونة الأجهزة</string>
 	<key>Show or hide the default status bar</key>

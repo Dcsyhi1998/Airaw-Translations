@@ -58,6 +58,8 @@ If you just want to restart the CarPlay screen select the first option.</key>
 	<string>تبرع عبر PayPal</string>
 	<key>Edit</key>
 	<string>تعديل</string>
+	<key>Force rotation</key>
+	<string>دوران الشاشة</string>
 	<key>Function Request</key>
 	<string>وظيفة جديدة</string>
 	<key>I haven't registered my email.</key>
@@ -116,6 +118,8 @@ I haven't got an iOS 13 device, so I haven't been able to test it. It may not wo
 	<string>إعادة تشغيل سريعه</string>
 	<key>Restart CarPlay</key>
 	<string>إعادة تشغيل CarPlay</string>
+	<key>Screen Orientation correction</key>
+	<string>تصحيح اتجاه الشاشة</string>
 	<key>Set Interval</key>
 	<string>تعيين الفاصل الزمني</string>
 	<key>Share Tweak</key>
@@ -136,6 +140,8 @@ I haven't got an iOS 13 device, so I haven't been able to test it. It may not wo
 So please note that it works differently from CarBridge.</key>
 	<string>ميزة "اختيار التطبيق"  تأتي بطريقة عرض التطبيق بطريقة مختلفة عن CarBridge.
  لذا يرجى ملاحظة أنه يعمل بشكل مختلف عن CarBridge.</string>
+	<key>This method is for people who do not work properly on the landscape screen. disable this feature.</key>
+	<string>هذه الطريقة مخصصة للأشخاص الذين لا يعمل التطبيق بشكل صحيح على الشاشة الأفقية.  تعطيل هذه الميزة.</string>
 	<key>Time interval: %is</key>
 	<string>الفاصل الزمني: %is</string>
 	<key>Time interval: 2s</key>
