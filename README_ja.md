@@ -1,15 +1,15 @@
 # Airaw
 ## _AirawはCarPlayに拡張機能をもたらす為のTweakになっています！_
 
-この微調整により、Carplayの追加の拡張機能が提供されます。CarPlayは通常、2×4のアイコングリッドをサポートし、ホーム画面に合計8つのアイコンを表示します。 一部の人々にとってはこれでは不十分かもしれません、そしてそれは _Airaw_ が役に立ちます。[iDownloadBlog レビュー][2]をチェックしてください。\
-AirawはCarPlayをお好みに合わせてカスタマイズするように作られています。 必要に応じて壁紙を変更したり、ステータスバーをカスタマイズしたりできます。
+この微調整により、CarPlayの追加の拡張機能が提供されます。CarPlayは通常、2×4のアイコングリッドをサポートし、ホーム画面に合計8つのアイコンを表示します。 一部の人々にとってはこれでは不十分かもしれません、その時には _Airaw_ が役に立ちます。[iDownloadBlog レビュー][2]をチェックしてください。\
+AirawはCarPlayをお好みに合わせてカスタマイズするように作られています。 必要に応じて壁紙を変更したり、ステータスバーをカスタマイズしたり、ウィジェットの追加したりできます。
 
 <div style="height: 300px;">
     <img class="screenshot" src="https://dcsyhi1998.github.io/icons/Airaw/demo0.png" id="screenshot0">
 </div><br>
 
 Airawの機能が気にいった場合は[PayPal](https://www.paypal.me/DevDcsyhi)での寄付は大歓迎です。
-寄付のが厳しい場合は[Twitter][1]のフォローをしてサポートをよろしくお願いします。
+寄付が厳しい場合は[Twitter][1]のフォローをしてサポートをよろしくお願いします。
 フォローもしくは寄付のサポートしていただければ開発のモチベーションが上がりCarPlayにより優れた機能を増やし続けれます。
 
 # 開発者向けAiraw API
@@ -53,11 +53,18 @@ Airaw APIは、CarPlay用のウィジェットの作成を容易にするのに�
 - ウィジェットサイズ変更
 - ウィジェットのポジション変更
 
+## FAQ
+Q\.**アイコンラベルの色の変更ができない又は保存されない**\
+A\.こちらの[ツイート][5]を確認してください。\
+Q\.**天気アイコンが正しく表示されない場合**\
+A\.こちらの[ツイート][6]を確認してください。\
+
 ## 将来の機能
 - [x]壁紙変更時のリアルタイム更新
 - [x]ステータスバーのカスタマイズ
 - [x]ステータスバーに天気の情報表示
 - [x]アプリのフルスクリーンの表示 ([デモ][3])
+- [ ]アプリのスプリットビュー実装
 - [ ]CarPlayで通知を受け取る
 - [ ]CarPlayでフォルダー作成
 - [ ]HTMLでタッチ操作可能なウィジェット作成
@@ -86,10 +93,12 @@ Airaw v1.5.3以降よりDRM(デジタル著作権管理)技術で保護されて
 Tweakのクラックしているユーザーにはサポート致しません。
 
 ## フィードバック & バグの報告先
-- Twitter: [@linux_n1][7]
+- Twitter: [@linux_n1][1]
 - Email: <dcsyhi1998@gmail.com>
 
 [1]:https://twitter.com/intent/follow?screen_name=linux_n1
 [2]:https://www.idownloadblog.com/2021/06/11/airaw/
 [3]:https://twitter.com/linux_n1/status/1486356268180643841?s=20&t=GNpcgOkSLXcmHSI3L-QFOg
 [4]:https://dcsyhi1998.github.io/airawapi
+[5]:https://twitter.com/linux_n1/status/1479025725663776769?s=20&t=6X2EsGT3w5_1RMqI-DqXqw
+[6]:https://twitter.com/linux_n1/status/1470751948454625282?s=20&t=6X2EsGT3w5_1RMqI-DqXqw
