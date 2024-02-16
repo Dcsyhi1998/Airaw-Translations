@@ -1,0 +1,20 @@
+"Lock Screen Dimming" = "ロック画面の調光";
+
+"Lock Screen Dimming(Forced)" = "ロック画面の調光(強制)";
+
+"It is recommended that this be enabled when the widget is added.The widget will continue to update even when the screen is locked." = "ウィジェット使用時に、この機能を有効にする事をお勧めします。画面ロック時にもウィジェットは更新され続けます。";
+
+"Battey" = "バッテリー";
+
+"Music" = "ミュージック";
+
+"System" = "システム";
+
+"Statusbar" = "ステータスバー情報";
+
+"Weather" = "天気";
+
+"CarPlay" = "CarPlay";
+
+"API Information" = "API情報";
+"Create a widget using Airaw API !!" = "Airaw APIを用いてウィジェットの作成が可能！！";
