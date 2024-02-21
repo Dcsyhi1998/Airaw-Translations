@@ -1,0 +1,22 @@
+{
+    "Add Widgets" = "Th\U00eam ti\U1ec7n \U00edch (Widget)";
+    "Add widgets to CarPlay" = "Th\U00eam ti\U1ec7n \U00edch v\U00e0o CarPlay";
+    "App Selection" = "L\U1ef1a ch\U1ecdn \U1ee9ng d\U1ee5ng";
+    "Backup/Restore" = "Sao l\U01b0u/Kh\U00f4i ph\U1ee5c";
+    "CarPlay Wallpaper" = "H\U00ecnh n\U1ec1n CarPlay";
+    "CarPlay icon customization" = "T\U00f9y ch\U1ec9nh bi\U1ec3u t\U01b0\U1ee3ng CarPlay";
+    "CarPlay wallpaper customization" = "T\U00f9y ch\U1ec9nh h\U00ecnh n\U1ec1n CarPlay";
+    "Developer Repository" = "Kho l\U01b0u tr\U1eef d\U00e0nh cho nh\U00e0 ph\U00e1t tri\U1ec3n";
+    "Donate with PayPal" = "\U1ee6ng h\U1ed9 dev b\U1eb1ng PayPal";
+    "Email Support" = "Email h\U1ed7 tr\U1ee3";
+    Enabled = "B\U1eadt/T\U1eaft ";
+    "Enabled / Disable" = "B\U1eadt / T\U1eaft tinh ch\U1ec9nh";
+    "Icon Layout" = "B\U1ed1 c\U1ee5c bi\U1ec3u t\U01b0\U1ee3ng";
+    Other = "Kh\U00e1c";
+    "Other Functions" = "C\U00e1c ch\U1ee9c n\U0103ng kh\U00e1c";
+    "Special Thanks" = "C\U1ea3m \U01a1n";
+    "Status Bar" = "Thanh tr\U1ea1ng th\U00e1i";
+    "Status bar customization" = "T\U00f9y ch\U1ec9nh thanh tr\U1ea1ng th\U00e1i";
+    Support = "H\U1ed7 tr\U1ee3";
+    "The second option is used to choose applications to have in full screen mode." = "T\U00f9y ch\U1ecdn th\U1ee9 hai \U0111\U01b0\U1ee3c s\U1eed d\U1ee5ng \U0111\U1ec3 ch\U1ecdn \U1ee9ng d\U1ee5ng c\U00f3 \U1edf ch\U1ebf \U0111\U1ed9 to\U00e0n m\U00e0n h\U00ecnh.";
+}

@@ -1,0 +1,24 @@
+{
+    "After generating the transparent icon, add it to CarPlay with CarBridge." = "Sau khi t\U1ea1o bi\U1ec3u t\U01b0\U1ee3ng trong su\U1ed1t, h\U00e3y th\U00eam bi\U1ec3u t\U01b0\U1ee3ng \U0111\U00f3 v\U00e0o CarPlay b\U1eb1ng CarBridge.";
+    "CarPlay Setings" = "C\U00e0i \U0111\U1eb7t CarPlay";
+    "CarPlay dashboard app icon Bottom offset" = "Bi\U1ec3u t\U01b0\U1ee3ng \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay Ph\U1ea7n b\U00f9 d\U01b0\U1edbi";
+    "CarPlay dashboard app icon Left offset" = "Bi\U1ec3u t\U01b0\U1ee3ng \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay B\U00f9 tr\U00e1i";
+    "CarPlay dashboard app icon Right offset" = "Bi\U1ec3u t\U01b0\U1ee3ng \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay B\U00f9 b\U00ean ph\U1ea3i";
+    "CarPlay dashboard app icon Top offset" = "Bi\U1ec3u t\U01b0\U1ee3ng \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay Ph\U1ea7n b\U00f9 tr\U00ean c\U00f9ng";
+    "CarPlay dashboard app icon size" = "K\U00edch th\U01b0\U1edbc bi\U1ec3u t\U01b0\U1ee3ng \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay";
+    "Carplay App Label customize" = "T\U00f9y ch\U1ec9nh nh\U00e3n \U1ee9ng d\U1ee5ng Carplay";
+    "Create Blank Icons" = "T\U1ea1o bi\U1ec3u t\U01b0\U1ee3ng tr\U1ed1ng";
+    "Default Bottom Offset = -30" = "\U0110\U1ed9 l\U1ec7ch \U0111\U00e1y m\U1eb7c \U0111\U1ecbnh = -30";
+    "Default Top Offset = 30" = "\U0110\U1ed9 l\U1ec7ch tr\U00ean c\U00f9ng m\U1eb7c \U0111\U1ecbnh = 30";
+    "Default left Offset = 20" = "\U0110\U1ed9 l\U1ec7ch tr\U00e1i m\U1eb7c \U0111\U1ecbnh = 20";
+    "Default right Offset = 20" = "\U0110\U1ed9 l\U1ec7ch \U00e1nh s\U00e1ng m\U1eb7c \U0111\U1ecbnh = 20";
+    "Generate transparent icon" = "T\U1ea1o bi\U1ec3u t\U01b0\U1ee3ng trong su\U1ed1t";
+    "Hide Dots" = "\U1ea8n d\U1ea5u ch\U1ea5m trang";
+    "Hide Icon Label" = "\U1ea8n nh\U00e3n bi\U1ec3u t\U01b0\U1ee3ng";
+    "Hide Label Background" = "\U1ea8n n\U1ec1n nh\U00e3n";
+    "Icon Label Color" = "Thay \U0111\U1ed5i m\U00e0u nh\U00e3n bi\U1ec3u t\U01b0\U1ee3ng";
+    "Number of CarPlay dashboard app columns" = "S\U1ed1 c\U1ed9t trong \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay";
+    "Number of CarPlay dashboard app rows" = "S\U1ed1 h\U00e0ng trong \U1ee9ng d\U1ee5ng b\U1ea3ng \U0111i\U1ec1u khi\U1ec3n CarPlay";
+    "The number of icons : %i" = "S\U1ed1 l\U01b0\U1ee3ng bi\U1ec3u t\U01b0\U1ee3ng: %i";
+    "The number of icons : 1" = "S\U1ed1 l\U01b0\U1ee3ng bi\U1ec3u t\U01b0\U1ee3ng: 1";
+}

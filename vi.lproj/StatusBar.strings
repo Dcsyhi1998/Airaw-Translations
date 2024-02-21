@@ -1,0 +1,31 @@
+{
+    "Battery Settings" = "C\U00e0i \U0111\U1eb7t pin";
+    "Colors Change" = "Thay \U0111\U1ed5i m\U00e0u s\U1eafc";
+    "Date Format:" = "\U0110\U1ecbnh d\U1ea1ng ng\U00e0y th\U00e1ng:";
+    "Default status bar" = "Thanh tr\U1ea1ng th\U00e1i m\U1eb7c \U0111\U1ecbnh";
+    "Devices with a Bluetooth connection to CarPlay will display a battery icon. This option is to remove the default battery icon." = "C\U00e1c thi\U1ebft b\U1ecb c\U00f3 k\U1ebft n\U1ed1i Bluetooth v\U1edbi CarPlay s\U1ebd hi\U1ec3n th\U1ecb bi\U1ec3u t\U01b0\U1ee3ng pin. T\U00f9y ch\U1ecdn n\U00e0y nh\U1eb1m lo\U1ea1i b\U1ecf bi\U1ec3u t\U01b0\U1ee3ng pin m\U1eb7c \U0111\U1ecbnh.";
+    "Disable Status Bar" = "T\U1eaft thanh tr\U1ea1ng th\U00e1i";
+    "Enable  / Disable" = "B\U1eadt / T\U1eaft";
+    "Enable or Disable the entire Status Bar" = "B\U1eadt ho\U1eb7c t\U1eaft to\U00e0n b\U1ed9 Thanh tr\U1ea1ng th\U00e1i";
+    Enabled = "B\U1eadt";
+    "Enter @ if you want to start a new line." = "Nh\U1eadp @ n\U1ebfu b\U1ea1n mu\U1ed1n b\U1eaft \U0111\U1ea7u m\U1ed9t d\U00f2ng m\U1edbi.";
+    "Font Size: %i" = "C\U1ee1 ch\U1eef: %i";
+    "Font Size: 5" = "C\U1ee1 ch\U1eef: 5";
+    "If it doesn't show you the Weather correctly open the weather app and then connect the device to CarPlay." = "N\U1ebfu n\U00f3 kh\U00f4ng hi\U1ec3n th\U1ecb ch\U00ednh x\U00e1c cho b\U1ea1n Th\U1eddi ti\U1ebft, h\U00e3y m\U1edf \U1ee9ng d\U1ee5ng th\U1eddi ti\U1ebft r\U1ed3i k\U1ebft n\U1ed1i thi\U1ebft b\U1ecb v\U1edbi CarPlay.";
+    Left = "B\U00ean tr\U00e1i";
+    "Location:" = "V\U1ecb tr\U00ed:";
+    Other = "Kh\U00e1c";
+    "Remove battery icon" = "X\U00f3a bi\U1ec3u t\U01b0\U1ee3ng pin";
+    Right = "B\U00ean ph\U1ea3i";
+    "Show devices icons" = "Hi\U1ec3n th\U1ecb bi\U1ec3u t\U01b0\U1ee3ng pin";
+    "Show or hide the default status bar" = "Hi\U1ec3n th\U1ecb ho\U1eb7c \U1ea9n thanh tr\U1ea1ng th\U00e1i m\U1eb7c \U0111\U1ecbnh";
+    "Show temperature" = "Hi\U1ec3n th\U1ecb nhi\U1ec7t \U0111\U1ed9";
+    "Show weather icon" = "Hi\U1ec3n th\U1ecb bi\U1ec3u t\U01b0\U1ee3ng th\U1eddi ti\U1ebft";
+    "Status bar color change" = "Thay \U0111\U1ed5i m\U00e0u thanh tr\U1ea1ng th\U00e1i";
+    "Status bar date format" = "\U0110\U1ecbnh d\U1ea1ng ng\U00e0y tr\U00ean thanh tr\U1ea1ng th\U00e1i";
+    "Status bar position" = "v\U1ecb tr\U00ed thanh tr\U1ea1ng th\U00e1i";
+    "This option to apply the changes you need to restart CarPlay." = "T\U00f9y ch\U1ecdn n\U00e0y \U0111\U1ec3 \U00e1p d\U1ee5ng nh\U1eefng thay \U0111\U1ed5i b\U1ea1n c\U1ea7n \U0111\U1ec3 kh\U1edfi \U0111\U1ed9ng l\U1ea1i CarPlay.";
+    "Time Format:" = "\U0110\U1ecbnh d\U1ea1ng th\U1eddi gian:";
+    "Weather Settings" = "C\U00e0i \U0111\U1eb7t th\U1eddi ti\U1ebft";
+    "this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original." = "ch\U1ee9c n\U0103ng n\U00e0y s\U1ebd x\U00f3a thanh tr\U1ea1ng th\U00e1i g\U1ed1c, n\U1ebfu b\U1ea1n mu\U1ed1n hi\U1ec3n th\U1ecb thanh tr\U1ea1ng th\U00e1i g\U1ed1c, h\U00e3y t\U1eaft ch\U1ee9c n\U0103ng n\U00e0y \U0111\U1ec3 hi\U1ec3n th\U1ecb tr\U1ea1ng th\U00e1i g\U1ed1c.";
+}

@@ -1,0 +1,12 @@
+{
+    "API Information" = "Th\U00f4ng tin API";
+    Battey = Pin;
+    CarPlay = CarPlay;
+    "Create a widget using Airaw API !!" = "B\U1ea1n c\U00f3 th\U1ec3 t\U1ea1o widget b\U1eb1ng API Airaw! !";
+    "It is recommended that this be enabled when the widget is added.The widget will continue to update even when the screen is locked." = "Ch\U00fang t\U00f4i khuy\U00ean b\U1ea1n n\U00ean b\U1eadt t\U00ednh n\U0103ng n\U00e0y khi s\U1eed d\U1ee5ng ti\U1ec7n \U00edch. C\U00e1c widget ti\U1ebfp t\U1ee5c c\U1eadp nh\U1eadt ngay c\U1ea3 khi m\U00e0n h\U00ecnh b\U1ecb kh\U00f3a.";
+    "Lock Screen Dimming" = "L\U00e0m m\U1edd m\U00e0n h\U00ecnh kh\U00f3a";
+    Music = "\U00c2m nh\U1ea1c";
+    Statusbar = "Thanh tr\U1ea1ng th\U00e1i";
+    System = "H\U1ec7 th\U1ed1ng";
+    Weather = "Th\U1eddi ti\U1ebft";
+}
