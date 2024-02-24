@@ -187,7 +187,7 @@
 
 "Other Functions" = "その他の機能";
 
-"CarPlay must be restarted for the change to take effect.\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1" = "適用するにはCarPlayにの再起動が必要です。\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1";
+"CarPlay must be restarted for the change to take effect.\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1" = "適用するにはCarPlayの再起動が必要です。\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1";
 
 "The generation was successful.\nAdd a transparent icon with CarBridge." = "生成に成功しました。\nCarBridgeで透明アイコンを追加。";
 
@@ -216,3 +216,5 @@
 "Lock Screen Dimming(Forced)" = "ロック画面の調光(強制)";
 
 "If Lock Screen Dimming does not work, please use the (Forced) version.\nIf it is OFF, the application will not work properly." = "ロック画面の調光、動作しない方は(強制)バージョンをご使用ください。\nこちらがOFFですとアプリが正常に動作しません。";
+
+"Reset Color" = "色のリセット";
