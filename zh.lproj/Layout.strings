@@ -1,43 +1,43 @@
-"Generate transparent icon" = "创建透明图标";
+"Generate transparent icon" = "生成透明占位图标";
 
-"After generating the transparent icon, add it to CarPlay with CarBridge or CarPlay Enable." = "生成透明图标后，请使用 CarBridge 或 CarPlay Enable 生成的透明图标添加到 CarPlay。。";
+"After generating the transparent icon, add it to CarPlay with CarBridge." = "创建透明图标后，使用 CarBridge添加到 Carplay 中。";
 
-"The number of icons : %i" = "生成图标数量 : %i";
+"The number of icons : %i" = "透明图标数量 : %i";
 
-"The number of icons : 1" = "生成图标数量 : 1";
+"The number of icons : 1" = "透明图标数量 : 1";
 
-"Create Blank Icons" = "创建透明图标";
+"Create Blank Icons" = "创建透明占位图标";
 
 "CarPlay Setings" = "CarPlay设置";
 
-"Number of CarPlay dashboard app rows" = "CarPlay屏幕图标行数";
+"Number of CarPlay dashboard app rows" = "CarPlay图标行数";
 
-"Number of CarPlay dashboard app columns" = "CarPlay屏幕图标列数";
+"Number of CarPlay dashboard app columns" = "CarPlay图标列数";
 
-"CarPlay dashboard app icon size" = "CarPlay图标大小";
+"CarPlay dashboard app icon size" = "CarPlay图标尺寸";
 
 "CarPlay dashboard app icon Top offset" = "CarPlay图标顶部距离";
 
-"Default Top Offset = 30" = "顶部默认距离 = 30";
+"Default Top Offset = 30" = "默认顶部距离 = 30";
 
 "CarPlay dashboard app icon Bottom offset" = "CarPlay图标底部距离";
 
-"Default Bottom Offset = -20" = "底部默认距离 = -20";
+"Default Bottom Offset = -30" = "默认底部距离 = -30";
 
 "CarPlay dashboard app icon Left offset" = "CarPlay图标左侧距离";
 
-"Default left Offset = 20" = "左侧默认距离 = 20";
+"Default left Offset = 20" = "默认左侧距离 = 20";
 
 "CarPlay dashboard app icon Right offset" = "CarPlay图标右侧距离";
 
-"Default right Offset = 10" = "右侧默认距离 = 10";
+"Default right Offset = 20" = "默认右侧距离 = 20";
 
 "Carplay App Label customize" = "Carplay图标名称自定义";
 
-"Hide Icon Label (CarPlay)" = "隐藏图标名称 (CarPlay)";
+"Hide Icon Label" = "隐藏图标名称";
 
-"Hide Label Background (CarPlay)" = "隐藏图标名称背景 (CarPlay)";
+"Hide Label Background" = "隐藏图标名称背景";
 
-"Icon Label Color (CarPlay)" = "图标名称字体颜色 (CarPlay)";
+"Icon Label Color" = "图标名称颜色";
 
-"Hide Dots (CarPlay)" = "隐藏底部页面标识 (CarPlay)";
+"Hide Dots" = "隐藏分页标记";

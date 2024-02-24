@@ -1,0 +1,21 @@
+"Lock Screen Dimming" = "锁屏后台运行";
+
+"Lock Screen Dimming(Forced)" = "强制锁屏后台运行";
+
+"It is recommended that this be enabled when the widget is added.The widget will continue to update even when the screen is locked." = "添加组件后，建议开启锁屏后台运行，否则组件无法在锁屏状态下更新实时数据。";
+
+"Battey" = "电量信息";
+
+"Music" = "音乐信息";
+
+"System" = "系统信息";
+
+"Statusbar" = "状态栏信息";
+
+"Weather" = "天气信息";
+
+"CarPlay" = "CarPlay信息";
+
+"API Information" = "接口文档";
+
+"Create a widget using Airaw API !!" = "使用 Airaw 接口开发您自己的组件!!";
