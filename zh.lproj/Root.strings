@@ -1,15 +1,39 @@
-"Add Widgets" = "选择挂件";
-"Add widgets to CarPlay" = "挂件设置";
-"CarPlay Wallpaper" = "选择壁纸";
-"CarPlay icon customization" = "CarPlay图标设置";
-"CarPlay wallpaper customization" = "CarPlay壁纸设置";
-"Choose your option" = "请选择";
-"Developer Repository" = "Developer Repository";
-"Donate with PayPal" = "PayPal捐赠";
-"Email Support" = "邮件支持";
-"Enabled" = "启用";
 "Enabled / Disable" = "启用 / 禁用";
-"Icon Layout" = "图标 布局";
+
+"Enabled" = "已启用";
+
+"CarPlay icon customization" = "CarPlay 图标自定义";
+
+"Icon Layout" = "图标布局";
+
+"CarPlay wallpaper customization" = "CarPlay 壁纸自定义";
+
+"CarPlay Wallpaper" = "CarPlay 壁纸";
+
+"Status bar customization" = "状态栏自定义";
+
 "Status Bar" = "状态栏";
-"Status bar customization" = "状态栏设置";
-"Support" = "技术支持";
+
+"Add widgets to CarPlay" = "向 CarPlay 添加小部件";
+
+"Add Widgets" = "添加小部件";
+
+"Support" = "支持";
+
+"Email Support" = "邮件支持";
+
+"Donate with PayPal" = "通过 PayPal 捐赠";
+
+"Developer Repository" = "开发者仓库";
+
+"App Selection" = "应用选择";
+
+"Other" = "其他";
+
+"Backup/Restore" = "备份/恢复";
+
+"Special Thanks" = "特别感谢";
+
+"Other Functions" = "其他功能";
+
+"The second option is used to choose applications to have in full screen mode." = "第二个选项用于选择全屏模式的应用程序。";

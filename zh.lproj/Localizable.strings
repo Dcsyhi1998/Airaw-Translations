@@ -1,28 +1,28 @@
-"Choose your option" = "请选择";
+"Choose your option" = "选择您的选项";
 
 "Cancel" = "取消";
 
-"Donate with PayPal" = "PayPal捐赠";
+"Donate with PayPal" = "通过PayPal捐赠";
 
-"Share Tweak" = "分享Airaw插件";
+"Share Tweak" = "分享插件";
 
 "Respring" = "注销";
 
 "Restart CarPlay" = "重启CarPlay";
 
-"Choose your option\nIf you just want to restart the CarPlay screen select the first option." = "请选择一个选项，如果仅需要重启Carplay，请选择第一个选项";
+"Choose your option\nIf you just want to restart the CarPlay screen select the first option." = "请选择您的选项\n如果您只想重新启动CarPlay屏幕，请选择第一个选项。";
 
-"Reflect Change on CarPlay" = "应用改动到CarPlay";
+"Reflect Change on CarPlay" = "立即应用修改";
 
 "Reset Icon Layout" = "重置图标布局";
 
-"Let's change the layout of the CarPlay screen." = "开始自定义Carplay图标布局";
+"Let's change the layout of the CarPlay screen." = "让我们来改变CarPlay屏幕的布局。";
 
-"Change the wallpaper to your liking." = "选择你喜爱的壁纸";
+"Change the wallpaper to your liking." = "按照您的喜好更改壁纸。";
 
 "Edit" = "编辑";
 
-"Choose image" = "选择图片";
+"Choose image" = "选择图像";
 
 "Added Widgets" = "已添加的小部件";
 
@@ -30,62 +30,197 @@
 
 "Add Widget" = "添加小部件";
 
-"Add your favorite widgets to your CarPlay." = "将您最喜欢的小部件添加到 CarPlay";
+"Add your favorite widgets to your CarPlay." = "将您喜爱的小部件添加到您的CarPlay上。";
 
-"Support" = "技术支持";
+"Support" = "支持";
 
-"what kind of support do you want?" = "你需要什么技术支持？";
+"what kind of support do you want?" = "您需要什么样的支持？";
 
-"Function Request" = "新功能";
+"Function Request" = "功能请求";
 
-"Bug report" = "Bug报告";
+"Bug Report" = "错误报告";
 
-"Register for email" = "账号注册";
+"Register for email" = "注册电子邮件";
 
-"I haven't registered my email." = "还没有账号";
+"I haven't registered my email." = "我还没有注册我的电子邮件。";
 
-"Customize the status bar to your liking !!" = "让我们自由定制状态栏！！";
+"Customize the status bar to your liking !!" = "按照您的喜好自定义状态栏！！";
 
-"App selection" = "选择App";
+"App selection" = "选择应用";
 
 "Precautions" = "注意事项";
 
-"App to reflect" = "允许全屏的App";
+"App to reflect" = "要映射的应用程序";
 
-"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "以这种方式选择的应用程序的全屏与 CarBridge 不同。所以，在操作上有一定区别";
+"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "以这种方式选择的应用程序以与CarBridge不同的方式获取应用程序视图。\n因此，请注意它与CarBridge的工作方式不同。";
 
 "Backup/Restore" = "备份/恢复";
 
 "Create new backup" = "创建新备份";
 
-"Widgets to CarPlay" = "添加小部件";
+"Widgets to CarPlay" = "小部件到CarPlay";
 
 "Widget placement page" = "小部件放置页面";
 
-"Universal mode places the Widgets on all CarPlay Pages.\nThe [Specify] mode is to specify on which Page you want to place the Widget." = "如果选择 全局，小部件将在所有页面生效，指定 则仅在选中的页面生效。";
+"Universal mode places the Widgets on all CarPlay Pages.\nThe [Specify] mode is to specify on which Page you want to place the Widget." = "通用模式将小部件放置在所有CarPlay页面上。\n【指定】模式用于指定您要将小部件放置在哪个页面上。";
 
-"Universal" = "全局";
+"Universal" = "通用";
 
 "Specify" = "指定";
 
 "Widget position" = "小部件位置";
 
-"Do you want to apply the changes in CarPlay?" = "在Carplay上生效当前改动？";
+"Do you want to apply the changes in CarPlay?" = "您要在CarPlay中应用更改吗？";
 
-"Would you like to return to the default settings?" = "是否需要重置所有设置？";
+"Would you like to return to the default settings?" = "您想返回到默认设置吗？";
 
 "Yes" = "是";
 
 "No" = "否";
 
-"Do you want to select a customized image ??" = "是否选择自定义图片？";
+"Do you want to select a customized image ??" = "您想选择自定义图像吗？";
 
-"Create New Backup:" = "创建新备份:";
+"Create New Backup:" = "创建新备份：";
 
 "Backup Name" = "备份名称";
 
 "Backup name..." = "备份名称...";
 
-"Create Backup" = "开始备份";
+"Create Backup" = "创建备份";
 
-"Do you want to restore 「%@」 ??" = "是否恢复备份「%@」？";
+"Do you want to restore to \"%@\" ?" = "您要恢复到 \"%@\" 吗？";
+
+"Not all apps selected this way will work properly. Please note that some apps may not work.\n\nI haven't got an iOS 13 device, so I haven't been able to test it. It may not work properly." = "并非所有以这种方式选择的应用程序都能正常工作。 请注意，某些应用程序可能无法正常工作。\n\n我没有iOS 13设备，因此无法进行测试。 它可能无法正常工作。";
+
+"Icon Layout" = "图标布局";
+
+"Wallpaper" = "壁纸";
+
+"Create" = "创建";
+
+"Warning" = "警告";
+
+"To create transparent icons it may take more than 10 seconds." = "要创建透明图标，可能需要超过10秒的时间。";
+
+"Button position" = "按钮位置";
+
+"Special Thanks" = "特别感谢";
+
+"Status Bar" = "状态栏";
+
+"Show or hide the default status bar" = "显示或隐藏默认状态栏";
+
+"Reset Status Bar" = "重置状态栏";
+
+"Reset Wallpaper" = "重置壁纸";
+
+"Backup restored successfuly" = "备份成功恢复";
+
+"Page :" = "页面：";
+
+"Y Axis :" = "Y轴：";
+
+"X Axis :" = "X轴：";
+
+"Width :" = "宽度：";
+
+"Zoom Level: %i%%" = "缩放级别：%i%%";
+
+"Size :" = "大小：";
+
+"Open URL" = "打开URL";
+
+"What is a time format?" = "时间格式是什么？";
+
+"If you want to know more, tap the URL button to check.\n\nexample:\n14:40:42\t\tHH:mm:ss" = "如果您想了解更多，请点击URL按钮进行检查。\n\n例子：\n14:40:42\t\tHH:mm:ss";
+
+"What is a date format?" = "日期格式是什么？";
+
+"If you want to know more, tap the URL button to check.\n\nexample:\nWednesday, May 19, 2021\nEEEE, MMM d, yyyy" = "如果您想了解更多，请点击URL按钮进行检查。\n\n例子：\nWednesday, May 19, 2021\nEEEE, MMM d, yyyy";
+
+"What is the Location format?" = "位置格式是什么？";
+
+"If you want to select another format, please check the url." = "如果您想选择其他格式，请检查URL。";
+
+"Wallpaper Slideshow" = "壁纸幻灯片";
+
+"Time interval: %is" = "时间间隔：%i秒";
+
+"Time interval: 2s" = "时间间隔：2秒";
+
+"Set Interval" = "设置间隔";
+
+"Wallpapers" = "壁纸";
+
+"Wallpaper No.%d" = "壁纸编号 %d";
+
+"Add Wallpaper" = "添加壁纸";
+
+"ups! past the limit" = "哎呀！超过限制了";
+
+"You can put 5 wallpaper only.\ndelete an image so you can put a new one." = "您只能放置 5 张壁纸。\n删除一张图片以便添加新的壁纸。";
+
+"Widgets were not found.\nPlease download it first and then add it." = "未找到小部件。\n请先下载，然后再添加。";
+
+"Reset Settings" = "重置设置";
+
+/* 欢迎界面设置 */
+"Welcome to Airaw" = "欢迎使用 Airaw";
+
+"Airaw is a Tweak to give CarPlay Extension!!" = "Airaw 是一个为 CarPlay 提供扩展功能的插件！！";
+
+"Status of support" = "支持状态";
+
+"Applications and settings are fully compatible with iOS14 and iOS15." = "应用程序和设置与 iOS14 和 iOS15 完全兼容。";
+
+"Convenient" = "方便";
+
+"Customize your CarPlay screen as you like." = "根据您的喜好自定义您的 CarPlay 屏幕。";
+
+"If you liked the Tweak, help me with a donation by PayPal." = "如果您喜欢这个调整，请通过 PayPal 捐赠以支持我。";
+
+"Continue" = "继续";
+
+"Apply" = "应用";
+
+"If you encounter a bug, don't hesitate to report it! Please include your device and iOS version." = "如果遇到 bug，请毫不犹豫地报告！请包含您的设备和 iOS 版本。";
+
+"Other Functions" = "其他功能";
+
+"CarPlay must be restarted for the change to take effect." = "更改生效需要重新启动 CarPlay";
+
+"The generation was successful.\nAdd a transparent icon with CarBridge." = "生成成功。\n使用 CarBridge 添加一个透明图标。";
+
+"Success" = "成功";
+
+"Creating icon..." = "正在创建图标...";
+
+"Please wait" = "请稍候";
+
+"Retrieve battery information" = "检索电池信息";
+
+"Retrieve music information" = "检索音乐信息";
+
+"Retrieve system information" = "检索系统信息";
+
+"Retrieve statusbar information" = "检索状态栏信息";
+
+"Retrieve weather information" = "检索天气信息";
+
+"Retrieve CarPlay information" = "检索 CarPlay 信息";
+
+"Colors Change" = "颜色更改";
+
+"If the Gif animation is too long, it may not be usable." = "如果 GIF 动画太长，可能无法使用。";
+
+"Backup restored successfuly\nMust be Respringed for changes to take effect." = "备份成功恢复\n更改生效需要重新启动。";
+
+"\n All settings will be restored to default and device will respring. Continue?" = "\n 所有设置将恢复为默认值，并且设备将重新启动。是否继续？";
+
+"Lock Screen Dimming" = "锁屏后台运行";
+
+"Lock Screen Dimming(Forced)" = "强制锁屏后台运行";
+
+"If Lock Screen Dimming does not work, please use the (Forced) version.\nIf it is OFF, the application will not work properly." = "如果锁屏后台运行无法正常工作，请使用强制锁屏后台运行。\n如果关闭，该应用程序将无法正常工作。";
+
+"Reset Color" = "重置颜色";
