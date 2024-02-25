@@ -187,7 +187,7 @@
 
 "Other Functions" = "その他の機能";
 
-"CarPlay must be restarted for the change to take effect.\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1" = "適用するにはCarPlayの再起動が必要です。\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1";
+"CarPlay must be restarted for the change to take effect." = "適用するにはCarPlayの再起動が必要です。";
 
 "The generation was successful.\nAdd a transparent icon with CarBridge." = "生成に成功しました。\nCarBridgeで透明アイコンを追加。";
 
@@ -205,7 +205,7 @@
 "Retrieve CarPlay information" = "CarPlay情報を取得する";
 "Colors Change" = "色の変更";
 
-"If the Gif animation is too long, it may not be usable.\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1" = "GIFアニメーションが長すぎると正常に動作しない可能性があります。\n©️Dcsyhi 2021 - 2024 Airaw v1.6.1";
+"If the Gif animation is too long, it may not be usable." = "GIFアニメーションが長すぎると正常に動作しない可能性があります。";
 
 "Backup restored successfuly\nMust be Respringed for changes to take effect." = "復元に成功しました\n変更が正しく適用されるには再起動が必要です。";
 
