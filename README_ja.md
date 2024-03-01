@@ -148,7 +148,7 @@ A\.Filza から以下の 3 つのディレクトリのいずれかを作成し�
 その他の機能は全て動作しております。
 
 PayPal が利用できない地域の方は、Airaw をクラックする手段を取る代わりに、一度私にご連絡ください。別の支払い方法を提案できるかもしれません。\
-クラックされた開発者の身にもなってください。私は Airaw の新しいアップデートを出す気にはなりません。最悪の場合、私は引退します。
+クラックされた開発者の立場に立って考えてください。そのような状況では、新しい Airaw のアップデートをリリースするモチベーションが低下し、最悪の場合、Airaw の開発を引退する可能性もあります。
 
 ## フィードバック & バグの報告先
 
@@ -165,5 +165,5 @@ PayPal が利用できない地域の方は、Airaw をクラックする手段�
 [8]: https://twitter.com/linux_n1/status/1755251568973344821
 [9]: https://x.com/linux_n1/status/1762098211949559980
 [10]: https://x.com/linux_n1/status/1762123372518096933
-[11]: https://drive.google.com/file/d/1cy1WFBYTUROmFUnbXY958ujfY8DUfWkh/view?usp=drive_link
+[11]: https://x.com/linux_n1/status/1763546509633855912
 [12]: https://onejailbreak.com/blog/airaw-tweak/
