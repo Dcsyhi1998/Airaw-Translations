@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>API Information</key>
-	<string>معلومات API</string>
-	<key>Add or revise translations</key>
-	<string>إضافة أو مراجعة الترجمة</string>
-	<key>Create a widget using Airaw API !!</key>
-	<string>إنشاء عنصر واجهة مستخدم باستخدام Airaw API!</string>
-	<key>LICENSE</key>
-	<string>الرخص</string>
-	<key>translation</key>
-	<string>الترجمة</string>
-</dict>
-</plist>
+“translation” = “الترجمة”;
+
+“Add or revise translations” = “إضافة أو تعديل الترجمات”;
+
+“LICENSE” = “الترخيص”;
+
+“API Information” = “معلومات API”;
+
+“Create a widget using Airaw API !!” = “إنشاء ودجة باستخدام Airaw API!!”;

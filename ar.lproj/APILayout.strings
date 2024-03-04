@@ -1,0 +1,21 @@
+“Lock Screen Dimming” = “تعتيم شاشة القفل”;
+
+“Lock Screen Dimming(Forced)” = “تعتيم شاشة القفل (إجباري)”;
+
+“It is recommended that this be enabled when the widget is added. The widget will continue to update even when the screen is locked.” = “يُنصح بتفعيل هذا عند إضافة الويدجت. سيستمر الويدجت في التحديث حتى عند قفل الشاشة.”;
+
+“Battey” = “البطارية”;
+
+“Music” = “الموسيقى”;
+
+“System” = “النظام”;
+
+“Statusbar” = “معلومات شريط الحالة”;
+
+“Weather” = “الطقس”;
+
+“CarPlay” = “CarPlay”;
+
+“API Information” = “معلومات API”;
+
+“Create a widget using Airaw API !!” = “أنشئ ويدجت باستخدام API Airaw!!”;

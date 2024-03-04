@@ -1,50 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>After generating the transparent icon, add it to CarPlay with CarBridge or CarPlay Enable.</key>
-	<string>بعد إنشاء الأيقونة الشفافة ، قم بإضافته إلى CarPlay باستخدام CarBridge أو CarPlay Enable.</string>
-	<key>CarPlay Setings</key>
-	<string>إعدادات CarPlay</string>
-	<key>CarPlay dashboard app icon Bottom offset</key>
-	<string>مسافة أيقونة التطبيقات من الأسفل عن حواف الشاشة</string>
-	<key>CarPlay dashboard app icon Left offset</key>
-	<string>مسافة أيقونة التطبيقات من اليسار عن حواف الشاشة</string>
-	<key>CarPlay dashboard app icon Right offset</key>
-	<string>مسافة أيقونة التطبيقات من اليمين عن حواف الشاشة</string>
-	<key>CarPlay dashboard app icon Top offset</key>
-	<string>مسافة أيقونة التطبيقات ‏من الأعلى عن حواف الشاشة</string>
-	<key>CarPlay dashboard app icon size</key>
-	<string>حجم أيقونة التطبيقات</string>
-	<key>Carplay App Label customize</key>
-	<string>تخصيص تسمية التطبيقات CarPlay</string>
-	<key>Create Blank Icons</key>
-	<string>إنشاء الأيقونات الفارغة</string>
-	<key>Default Bottom Offset = -20</key>
-	<string>المسافة الأفتراضية من الأسفل = -20</string>
-	<key>Default Top Offset = 30</key>
-	<string>المسافة الأفتراضية من الأعلى = 30</string>
-	<key>Default left Offset = 20</key>
-	<string>المسافة الأفتراضية من اليسار = 20</string>
-	<key>Default right Offset = 10</key>
-	<string>المسافة الأفتراضية من اليمين = 10</string>
-	<key>Generate transparent icon</key>
-	<string>إنشاء أيقونات شفافة</string>
-	<key>Hide Dots (CarPlay)</key>
-	<string>إخفاء نقاط عدد الصفحات</string>
-	<key>Hide Icon Label (CarPlay)</key>
-	<string>إخفاء اسماء التطبيقات</string>
-	<key>Hide Label Background (CarPlay)</key>
-	<string>إخفاء خلفية اسماء التطبيقات</string>
-	<key>Icon Label Color (CarPlay)</key>
-	<string>لون اسماء التطبيقات </string>
-	<key>Number of CarPlay dashboard app columns</key>
-	<string>عدد أعمدة التطبيقات </string>
-	<key>Number of CarPlay dashboard app rows</key>
-	<string>عدد صفوف التطبيقات </string>
-	<key>The number of icons : %i</key>
-	<string>عدد الأيقونات الفارغة : %i</string>
-	<key>The number of icons : 1</key>
-	<string>عدد الأيقونات الفارغة : 1</string>
-</dict>
-</plist>
+“Generate transparent icon” = “إنشاء أيقونة شفافة”;
+
+“After generating the transparent icon, add it to CarPlay with CarBridge.” = “بعد إنشاء الأيقونة الشفافة، أضفها إلى CarPlay باستخدام CarBridge.”;
+
+“The number of icons : %i” = “عدد الأيقونات: %i”;
+
+“The number of icons : 1” = “عدد الأيقونات: 1”;
+
+“Create Blank Icons” = “إنشاء أيقونات شفافة”;
+
+“CarPlay Setings” = “إعدادات CarPlay”;
+
+“Number of CarPlay dashboard app rows” = “عدد صفوف تطبيقات لوحة معلومات CarPlay”;
+
+“Number of CarPlay dashboard app columns” = “عدد أعمدة تطبيقات لوحة معلومات CarPlay”;
+
+“CarPlay dashboard app icon size” = “حجم أيقونة تطبيق لوحة معلومات CarPlay”;
+
+“CarPlay dashboard app icon Top offset” = “الإزاحة العلوية لأيقونة تطبيق لوحة معلومات CarPlay”;
+
+“Default Top Offset = 30” = “الإزاحة العلوية الافتراضية = 30”;
+
+“CarPlay dashboard app icon Bottom offset” = “الإزاحة السفلية لأيقونة تطبيق لوحة معلومات CarPlay”;
+
+“Default Bottom Offset = -30” = “الإزاحة السفلية الافتراضية = -30”;
+
+“CarPlay dashboard app icon Left offset” = “الإزاحة اليسرى لأيقونة تطبيق لوحة معلومات CarPlay”;
+
+“Default left Offset = 20” = “الإزاحة اليسرى الافتراضية = 20”;
+
+“CarPlay dashboard app icon Right offset” = “الإزاحة اليمنى لأيقونة تطبيق لوحة معلومات CarPlay”;
+
+“Default right Offset = 20” = “الإزاحة اليمنى الافتراضية = 20”;
+
+“Carplay App Label customize” = “تخصيص تسمية تطبيق Carplay”;
+
+“Hide Icon Label” = “إخفاء تسمية الأيقونة”;
+
+“Hide Label Background” = “إخفاء خلفية التسمية”;
+
+“Icon Label Color” = “تغيير لون تسمية الأيقونة”;
+
+“Hide Dots” = “إخفاء النقاط”;

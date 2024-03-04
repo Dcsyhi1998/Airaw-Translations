@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Artwork Wallpaper</key>
-	<string>خلفية فنية</string>
-	<key>Fict</key>
-	<string>تكيفية</string>
-	<key>Only Wallpaper</key>
-	<string>خلفية واحدة فقط</string>
-	<key>Wallpaper Slide Show</key>
-	<string>خلفية عرض الشرائح</string>
-	<key>default</key>
-	<string>إفتراضي</string>
-</dict>
-</plist>
+“Enabled” = “مُفعل”;
+
+“Only Wallpaper” = “الخلفية فقط”;
+
+“Wallpaper Slide Show” = “عرض شرائح الخلفية”;
+
+“default” = “الحجم الافتراضي”;
+
+“Fict” = “ملاءمة”;
+
+“Artwork Wallpaper” = “خلفية الأعمال الفنية”;

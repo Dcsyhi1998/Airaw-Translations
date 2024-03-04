@@ -1,60 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Battery Settings</key>
-	<string>إعدادات البطارية</string>
-	<key>Date Format:</key>
-	<string>صيغة التاريخ:</string>
-	<key>Default status bar</key>
-	<string>شريط الحالة الافتراضي</string>
-	<key>Devices with a Bluetooth connection to CarPlay will display a battery icon. This option is to remove the default battery icon.</key>
-	<string>ستعرض رمز البطارية للأجهزة التي تحتوي على اتصال Bluetooth بـ CarPlay.  هذا الخيار يقوم بإزالة رمز البطارية الافتراضي.</string>
-	<key>Disable Status Bar</key>
-	<string>تعطيل شريط الحالة</string>
-	<key>Enable  / Disable</key>
-	<string>تفعيل / تعطيل</string>
-	<key>Enable or Disable the entire Status Bar</key>
-	<string>تمكين أو تعطيل شريط الحالة بأكمله</string>
-	<key>Enabled</key>
-	<string>تفعيل</string>
-	<key>Enter @ if you want to start a new line.</key>
-	<string>ضع @ إذا كنت تريد بدء سطر جديد.</string>
-	<key>Font Size: %i</key>
-	<string>حجم الخط: %i</string>
-	<key>Location:</key>
-	<string>الموقع:</string>
-	<key>Other</key>
-	<string>آخر</string>
-	<key>Remove battery icon</key>
-	<string>إزالة رمز البطارية</string>
-	<key>Remove splash screen</key>
-	<string>إزالة شاشة البداية</string>
-	<key>Show devices icons</key>
-	<string>إظهار أيقونة الأجهزة</string>
-	<key>Show or hide the default status bar</key>
-	<string>إظهار أو إخفاء شريط الحالة الافتراضي</string>
-	<key>Show temperature</key>
-	<string>إظهار درجة الحرارة</string>
-	<key>Show weather icon</key>
-	<string>إظهار أيقونة الطقس</string>
-	<key>Status bar date format</key>
-	<string>تنسيق تاريخ شريط الحالة</string>
-	<key>Status bar position</key>
-	<string>موقع شريط الحالة</string>
-	<key>This option to apply the changes you need to restart CarPlay.</key>
-	<string>تحتاج بضغط على "قم بتطبيق التغييرات على CarPlay" الموجود بزر الإعدادات بالأعلى لتفعيل التغييرات </string>
-	<key>Time Format:</key>
-	<string>تنسيق الوقت:</string>
-	<key>To show the weather I use the libPDDokdo Library.If it doesn't show you the Weather correctly open the weather app and then connect the device to CarPlay.</key>
-	<string>لإظهار الطقس  أستخدم مكتبة libPDDokdo،
-إذا لم تظهر لك حالة الطقس بشكل صحيح قم بفتح تطبيق الطقس ثم قم بتوصيل الجهاز بـ CarPlay.</string>
-	<key>Weather Settings</key>
-	<string>إعدادات الطقس</string>
-	<key>Y Axis :</key>
-	<string>المحور ص:</string>
-	<key>this function deletes the original status bar,if you want to show original status bar deactivate this function to show the original.</key>
-	<string>تحذف هذه الوظيفة شريط الحالة الأصلي
-إذا كنت تريد إظهار شريط الحالة الأصلي فقم بإلغاء تنشيط هذه الميزة لإظهار الأصل.</string>
-</dict>
-</plist>
+“Enable / Disable” = “تفعيل / تعطيل”;
+
+“Enable or Disable the entire Status Bar” = “تفعيل أو تعطيل شريط الحالة بأكمله”;
+
+“Default status bar” = “شريط الحالة الافتراضي”;
+
+“Disable Status Bar” = “تعطيل شريط الحالة الافتراضي”;
+
+“Show or hide the default status bar” = “إظهار أو إخفاء شريط الحالة الافتراضي”;
+
+“this function deletes the original status bar, if you want to show the original status bar deactivate this function to show the original.” = “هذه الوظيفة تحذف شريط الحالة الأصلي، إذا أردت إظهار شريط الحالة الأصلي عطل هذه الوظيفة لإظهار الأصلي.”;
+
+“Status bar date format” = “تنسيق تاريخ شريط الحالة”;
+
+“Enter @ if you want to start a new line.” = “أدخل @ إذا أردت بدء سطر جديد.”;
+
+“Enabled” = “مُمكن”;
+
+“Time Format:” = “تنسيق الوقت:”;
+
+“Date Format:” = “تنسيق التاريخ:”;
+
+“Location:” = “الموقع:”;
+
+“Font Size: %i” = “حجم الخط: %i”;
+
+“Font Size: 5” = “حجم الخط: 5”;
+
+“Status bar position” = “موقع شريط الحالة”;
+
+“This option to apply the changes you need to restart CarPlay.” = “لتطبيق التغييرات تحتاج إلى إعادة تشغيل CarPlay.”;
+
+“Weather Settings” = “إعدادات الطقس”;
+
+“Show weather icon” = “عرض أيقونة الطقس”;
+
+“Show temperature” = “عرض درجة الحرارة”;
+
+“Battery Settings” = “إعدادات البطارية”;
+
+“Show devices icons” = “عرض أيقونات الأجهزة”;
+
+“If it doesn’t show you the Weather correctly open the weather app and then connect the device to CarPlay.” = “إذا لم يعرض لك الطقس بشكل صحيح، افتح تطبيق الطقس ثم اتصل بالجهاز بـ CarPlay.”;
+
+“Other” = “أخرى”;
+
+“Remove battery icon” = “إزالة أيقونة البطارية”;
+
+“Devices with a Bluetooth connection to CarPlay will display a battery icon. This option is to remove the default battery icon.” = “الأجهزة المتصلة بـ CarPlay عبر البلوتوث ستعرض أيقونة بطارية. هذا الخيار لإزالة أيقونة البطارية الافتراضية.”;
+
+“Status bar color change” = “تغيير لون شريط الحالة”;
+
+“Colors Change” = “تغيير الألوان”;

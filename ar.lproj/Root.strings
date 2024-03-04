@@ -1,46 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Add Widgets</key>
-	<string>إضافة الودجت</string>
-	<key>Add widgets to CarPlay</key>
-	<string>إضافة الودجت إلى CarPlay</string>
-	<key>App Selection</key>
-	<string>اختيار التطبيق</string>
-	<key>Backup/Restore</key>
-	<string>نسخ احتياطي/استعادة النسخة </string>
-	<key>CarPlay Wallpaper</key>
-	<string>الخلفية</string>
-	<key>CarPlay icon customization</key>
-	<string>تخصيص أيقونات CarPlay</string>
-	<key>CarPlay wallpaper customization</key>
-	<string>تخصيص خلفيات CarPlay</string>
-	<key>Choose your option</key>
-	<string>اختر خيارك</string>
-	<key>Developer Repository</key>
-	<string>سورس المطور</string>
-	<key>Donate with PayPal</key>
-	<string>تبرع عبر PayPal</string>
-	<key>Email Support</key>
-	<string>البريد الإلكتروني</string>
-	<key>Enabled</key>
-	<string>تفعيل</string>
-	<key>Enabled / Disable</key>
-	<string>تفعيل / تعطيل</string>
-	<key>Icon Layout</key>
-	<string>تخطيط الأيقونات</string>
-	<key>Other</key>
-	<string>اخرئ</string>
-	<key>Special Thanks</key>
-	<string>شكر خاص</string>
-	<key>Status Bar</key>
-	<string>شريط الحالة</string>
-	<key>Status bar customization</key>
-	<string>إعدادات شريط الحالة</string>
-	<key>Support</key>
-	<string>الدعم الفني</string>
-	<key>The second option is used to choose applications to have in full screen mode.</key>
-	<string>يتم استخدام الخيار الثاني لاختيار التطبيقات المطلوب وضعها في وضع ملء الشاشة.</string>
-</dict>
-</plist>
+“Enabled / Disable” = “تمكين / تعطيل”;
+
+“Enabled” = “مُمكن”;
+
+“CarPlay icon customization” = “تخصيص أيقونات CarPlay”;
+
+“Icon Layout” = “تخطيط الأيقونة”;
+
+“CarPlay wallpaper customization” = “تخصيص خلفيات CarPlay”;
+
+“CarPlay Wallpaper” = “خلفية CarPlay”;
+
+“Status bar customization” = “تخصيص شريط الحالة”;
+
+“Status Bar” = “شريط الحالة”;
+
+“Add widgets to CarPlay” = “إضافة ودجات إلى CarPlay”;
+
+“Add Widgets” = “إضافة ودجات”;
+
+“Support” = “الدعم”;
+
+“Email Support” = “الدعم عبر البريد الإلكتروني”;
+
+“Donate with PayPal” = “التبرع عبر PayPal”;
+
+“Developer Repository” = “مستودع المطور”;
+
+“App Selection” = “اختيار التطبيق”;
+
+“Other” = “أخرى”;
+
+“Backup/Restore” = “النسخ الاحتياطي/الاستعادة”;
+
+“Special Thanks” = “شكر خاص”;
+
+“Other Functions” = “وظائف أخرى”;
+
+“The second option is used to choose applications to have in full screen mode.” = “الخيار الثاني يُستخدم لاختيار التطبيقات لعرضها في وضع ملء الشاشة.”;

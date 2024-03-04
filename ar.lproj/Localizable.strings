@@ -1,198 +1,220 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Add Wallpaper</key>
-	<string>إضافة خلفية</string>
-	<key>Add Widget</key>
-	<string>إضافة الودجت</string>
-	<key>Add your favorite widgets to your CarPlay.</key>
-	<string>أضف أدواتك الودجت إلى CarPlay الخاص بك.</string>
-	<key>Added Widgets</key>
-	<string>الودجت المضافة</string>
-	<key>App selection</key>
-	<string>اختيار التطبيق</string>
-	<key>App to reflect</key>
-	<string>السماح للتطبيقات بملء الشاشة</string>
-	<key>Backup Name</key>
-	<string>اسم النسخ الاحتياطي</string>
-	<key>Backup name...</key>
-	<string>اسم النسخ الاحتياطي...</string>
-	<key>Backup restored successfuly</key>
-	<string>تم استعادة النسخة بنجاح</string>
-	<key>Backup/Restore</key>
-	<string>نسخ احتياطي/استعادة النسخة</string>
-	<key>Bug report</key>
-	<string>تقرير الأخطاء</string>
-	<key>Button position</key>
-	<string>موقع الزر</string>
-	<key>Cancel</key>
-	<string>إلغاء</string>
-	<key>Change the wallpaper to your liking.</key>
-	<string>قم بتغيير الخلفية حسب رغبتك.</string>
-	<key>Choose image</key>
-	<string>اختر صورة</string>
-	<key>Choose your option</key>
-	<string>اختر احد الخيارات</string>
-	<key>Choose your option
-If you just want to restart the CarPlay screen select the first option.</key>
-	<string>اختر احد الخيارات
-  إذا كنت ترغب فقط في إعادة تشغيل شاشة CarPlay ، فحدد الخيار الأول.</string>
-	<key>Create</key>
-	<string>إنشاء</string>
-	<key>Create Backup</key>
-	<string>انشئ نسخة احتياطية</string>
-	<key>Create New Backup:</key>
-	<string>إنشاء نسخة احتياطية جديدة:</string>
-	<key>Create new backup</key>
-	<string>إنشاء نسخة احتياطية جديدة</string>
-	<key>Customize the status bar to your liking !!</key>
-	<string>تخصيص شريط الحالة ‏بما يعجبك!</string>
-	<key>Do you want to apply the changes in CarPlay?</key>
-	<string>هل تريد تطبيق التغييرات في CarPlay؟</string>
-	<key>Do you want to restore to "%@" ?</key>
-	<string>هل تريد استعادة "%@" ؟</string>
-	<key>Do you want to select a customized image ??</key>
-	<string>هل تريد تحديد صورة مخصصة؟</string>
-	<key>Donate with PayPal</key>
-	<string>تبرع عبر PayPal</string>
-	<key>Edit</key>
-	<string>تعديل</string>
-	<key>Force rotation</key>
-	<string>دوران الشاشة</string>
-	<key>Function Request</key>
-	<string>وظيفة جديدة</string>
-	<key>I haven't registered my email.</key>
-	<string>لم أسجل بريدي الإلكتروني.</string>
-	<key>Icon Layout</key>
-	<string>تخطيط الأيقونات</string>
-	<key>If you want to know more, tap the URL button to check.
+“Choose your option” = “اختر خيارك”;
 
-example:
-14:40:42		HH:mm:ss</key>
-	<string>إذا كنت تريد معرفة المزيد ، فانقر فوق زر URL للتحقق.
+“Cancel” = “إلغاء”;
 
-مثال:
-١٤:٤٠:٤٢		HH:mm:ss</string>
-	<key>If you want to know more, tap the URL button to check.
+“Donate with PayPal” = “تبرع عبر PayPal”;
 
-example:
-Wednesday, May 19, 2021
-EEEE, MMM d, yyyy</key>
-	<string>إذا كنت تريد معرفة المزيد ، فانقر فوق زر URL للتحقق.
+“Share Tweak” = “شارك التعديل”;
 
-مثال:
-الخميس, شعبان ٢١, ١٤٤٣
-EEEE, MMM d, yyyy</string>
-	<key>If you want to select another format, please check the url.</key>
-	<string>إذا كنت تريد تحديد تنسيق آخر ، يرجى التحقق من عنوان url.</string>
-	<key>Let's change the layout of the CarPlay screen.</key>
-	<string>دعنا نغير تخطيط شاشة CarPlay.</string>
-	<key>No</key>
-	<string>لا</string>
-	<key>No Widgets added</key>
-	<string>الودجت الغير مضافة</string>
-	<key>Not all apps selected this way will work properly. Please note that some apps may not work.
+“Respring” = “إعادة التشغيل”;
 
-I haven't got an iOS 13 device, so I haven't been able to test it. It may not work properly.</key>
-	<string>لن تعمل جميع التطبيقات المحددة بهذه الطريقة بشكل صحيح.  يرجى ملاحظة أن بعض التطبيقات قد لا تعمل.
+“Restart CarPlay” = “إعادة تشغيل CarPlay”;
 
-ليس لدي جهاز iOS 13 ، لذلك لم أتمكن من اختباره.  قد لا تعمل بشكل صحيح.</string>
-	<key>Open URL</key>
-	<string>فتح URL</string>
-	<key>Page :</key>
-	<string>الصفحة :</string>
-	<key>Precautions</key>
-	<string>ملاحظة:</string>
-	<key>Reflect Change on CarPlay</key>
-	<string>قم بتطبيق التغييرات على CarPlay</string>
-	<key>Register for email</key>
-	<string>تسجيل البريد الإلكتروني</string>
-	<key>Reset Icon Layout</key>
-	<string>إعادة تعيين تخطيط التطبيقات</string>
-	<key>Reset Status Bar</key>
-	<string>إعادة تعيين شريط الحالة</string>
-	<key>Reset Wallpaper</key>
-	<string>إعادة تعيين خلفيات</string>
-	<key>Respring</key>
-	<string>إعادة تشغيل سريعه</string>
-	<key>Restart CarPlay</key>
-	<string>إعادة تشغيل CarPlay</string>
-	<key>Screen Orientation correction</key>
-	<string>تصحيح اتجاه الشاشة</string>
-	<key>Set Interval</key>
-	<string>تعيين الفاصل الزمني</string>
-	<key>Share Tweak</key>
-	<string>نشر الأداة</string>
-	<key>Show or hide the default status bar</key>
-	<string>إظهار أو إخفاء شريط الحالة الافتراضي</string>
-	<key>Size :</key>
-	<string>الحجم :</string>
-	<key>Special Thanks</key>
-	<string>شكر خاص</string>
-	<key>Specify</key>
-	<string>محدد</string>
-	<key>Status Bar</key>
-	<string>شريط الحالة</string>
-	<key>Support</key>
-	<string>الدعم الفني</string>
-	<key>The app selected in this way gets the app view in a different way than CarBridge.
-So please note that it works differently from CarBridge.</key>
-	<string>ميزة "اختيار التطبيق"  تأتي بطريقة عرض التطبيق بطريقة مختلفة عن CarBridge.
- لذا يرجى ملاحظة أنه يعمل بشكل مختلف عن CarBridge.</string>
-	<key>This method is for people who do not work properly on the landscape screen. disable this feature.</key>
-	<string>هذه الطريقة مخصصة للأشخاص الذين لا يعمل التطبيق بشكل صحيح على الشاشة الأفقية.  تعطيل هذه الميزة.</string>
-	<key>Time interval: %is</key>
-	<string>الفاصل الزمني: %is</string>
-	<key>Time interval: 2s</key>
-	<string>الفاصل الزمني：٢ث</string>
-	<key>To create transparent icons it may take more than 10 seconds.</key>
-	<string>قد يستغرق الأمر أكثر من 10 ثوانٍ لإنشاء ايقونة شفافة.</string>
-	<key>Universal</key>
-	<string>الكل</string>
-	<key>Universal mode places the Widgets on all CarPlay Pages.
-The [Specify] mode is to specify on which Page you want to place the Widget.</key>
-	<string>يضع خيار "الكل" الودجت في جميع صفحات CarPlay.
- وضع [محدد] هو لتحديد الصفحة التي تريد وضع عنصر واجهة المستخدم عليها.</string>
-	<key>Wallpaper</key>
-	<string>الخلفية</string>
-	<key>Wallpaper No.%d</key>
-	<string>الخلفية No.%d</string>
-	<key>Wallpaper Slideshow</key>
-	<string>خلفية عرض الشرائح</string>
-	<key>Wallpapers</key>
-	<string>الخلفيات</string>
-	<key>Warning</key>
-	<string>تحذير</string>
-	<key>What is a date format?</key>
-	<string>ما هو تنسيق التاريخ؟</string>
-	<key>What is a time format?</key>
-	<string>ما هو تنسيق الوقت؟</string>
-	<key>What is the Location format?</key>
-	<string>ما هو تنسيق الموقع؟</string>
-	<key>Widget placement page</key>
-	<string>تنسيق الودجت بالصفحه</string>
-	<key>Widget position</key>
-	<string>موقع الودجت</string>
-	<key>Widgets to CarPlay</key>
-	<string>إضافة الودجت</string>
-	<key>Width :</key>
-	<string>العرض :</string>
-	<key>Would you like to return to the default settings?</key>
-	<string>هل ترغب في العودة إلى الإعدادات الافتراضية؟</string>
-	<key>X Axis :</key>
-	<string>المحور س :</string>
-	<key>Y Axis :</key>
-	<string>المحور ص :</string>
-	<key>Yes</key>
-	<string>نعم</string>
-	<key>You can put 5 wallpaper only.
-delete an image so you can put a new one.</key>
-	<string>يمكنك وضع 5 خلفيات فقط.
-احذف صورة حتى تتمكن من وضع صورة جديدة.</string>
-	<key>ups! past the limit</key>
-	<string>اوه! لقد وصلت إلى الحد الأقصى من عدد الخلفيات</string>
-	<key>what kind of support do you want?</key>
-	<string>ما نوع الدعم الذي تريده؟</string>
-</dict>
-</plist>
+“Choose your option\nIf you just want to restart the CarPlay screen select the first option.” = “اختر خيارك\nإذا كنت ترغب فقط في إعادة تشغيل شاشة CarPlay، اختر الخيار الأول.”;
+
+“Reflect Change on CarPlay” = “عكس التغيير على CarPlay”;
+
+“Reset Icon Layout” = “إعادة تعيين تخطيط الأيقونة”;
+
+“Let’s change the layout of the CarPlay screen.” = “دعونا نغير تخطيط شاشة CarPlay.”;
+
+“Change the wallpaper to your liking.” = “غير الخلفية حسب رغبتك.”;
+
+“Edit” = “تحرير”;
+
+“Choose image” = “اختر صورة”;
+
+“Added Widgets” = “الويدجتات المضافة”;
+
+“No Widgets added” = “لم يتم إضافة ويدجتات”;
+
+“Add Widget” = “أضف ويدجت”;
+
+“Add your favorite widgets to your CarPlay.” = “أضف ويدجتاتك المفضلة إلى CarPlay.”;
+
+“Support” = “الدعم”;
+
+“what kind of support do you want?” = “ما نوع الدعم الذي تريده؟”;
+
+“Function Request” = “طلب خاصية”;
+
+“Bug Report” = “تقرير خلل”;
+
+“Register for email” = “التسجيل للبريد الإلكتروني”;
+
+“I haven’t registered my email.” = “لم أسجل بريدي الإلكتروني.”;
+
+“Customize the status bar to your liking !!” = “قم بتخصيص شريط الحالة حسب رغبتك!!”;
+
+“App selection” = “اختيار التطبيق”;
+
+“Precautions” = “الاحتياطات”;
+
+“App to reflect” = “التطبيق للعكس”;
+
+“The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge.” = “التطبيق المختار بهذه الطريقة يحصل على عرض التطبيق بطريقة مختلفة عن CarBridge.\nلذا يرجى ملاحظة أنه يعمل بشكل مختلف عن CarBridge.”;
+
+“Backup/Restore” = “النسخ الاحتياطي / الاستعادة”;
+
+“Create new backup” = “إنشاء نسخة احتياطية جديدة”;
+
+“Widgets to CarPlay” = “الويدجتات إلى CarPlay”;
+
+“Widget placement page” = “صفحة توضع الويدجت”;
+
+“Universal mode places the Widgets on all CarPlay Pages.\nThe [Specify] mode is to specify on which Page you want to place the Widget.” = “الوضع الشامل يضع الويدجتات على جميع صفحات CarPlay.\nوضع [تحديد] هو لتحديد على أي صفحة تريد وضع الويدجت.”;
+
+“Universal” = “شامل”;
+
+“Specify” = “تحديد”;
+
+“Widget position” = “موضع الويدجت”;
+
+“Do you want to apply the changes in CarPlay?” = “هل تريد تطبيق التغييرات في CarPlay؟”;
+
+“Would you like to return to the default settings?” = “هل تود العودة إلى الإعدادات الافتراضية؟”;
+
+“Yes” = “نعم”;
+
+“No” = “لا”;
+
+“Do you want to select a customized image ??” = “هل تريد اختيار صورة مخصصة؟”;
+
+“Create New Backup:” = “إنشاء نسخة احتياطية جديدة:”;
+
+“Backup Name” = “اسم النسخة الاحتياطية”;
+
+“Backup name…” = “اسم النسخة الاحتياطية…”;
+
+“Create Backup” = “إنشاء نسخة احتياطية”;
+
+“Do you want to restore to "%@" ?” = “هل ترغب في استعادة "%@"؟”;
+
+“Not all apps selected this way will work properly. Please note that some apps may not work.\n\nI haven’t got an iOS 13 device, so I haven’t been able to test it. It may not work properly.” = “ليس كل التطبيقات المختارة بهذه الطريقة ستعمل بشكل صحيح. يرجى ملاحظة أن بعض التطبيقات قد لا تعمل.\n\nليس لدي جهاز iOS 13، لذلك لم أتمكن من اختباره. قد لا يعمل بشكل صحيح.”;
+
+“Icon Layout” = “تخطيط الأيقونة”;
+
+“Wallpaper” = “خلفية”;
+
+“Create” = “إنشاء”;
+
+“Warning” = “تحذير”;
+
+“To create transparent icons it may take more than 10 seconds.” = “لإنشاء أيقونات شفافة قد يستغرق أكثر من 10 ثوان.”;
+
+“Button position” = “موقع الزر”;
+
+“Special Thanks” = “شكر خاص”;
+
+“Status Bar” = “شريط الحالة”;
+
+“Show or hide the default status bar” = “إظهار أو إخفاء شريط الحالة الافتراضي”;
+
+“Reset Status Bar” = “إعادة تعيين شريط الحالة”;
+
+“Reset Wallpaper” = “إعادة تعيين الخلفية”;
+
+“Backup restored successfully” = “تمت استعادة النسخة الاحتياطية بنجاح”;
+
+“Page :” = “صفحة :”;
+
+“Y Axis :” = “محور Y :”;
+
+“X Axis :” = “محور X :”;
+
+“Width :” = “عرض :”;
+
+“Zoom Level: %i%%” = “مستوى التكبير: %i%%”;
+
+“Size :” = “حجم :”;
+
+“Open URL” = “فتح رابط”;
+
+“What is a time format?” = “ما هو تنسيق الوقت؟”;
+
+“If you want to know more, tap the URL button to check.\n\nexample:\n14:40:42\t\tHH:mm:ss” = “إذا أردت معرفة المزيد، اضغط على زر الرابط للتحقق.\n\nمثال:\n14:40:42\t\tHH:mm:ss”;
+
+“What is a date format?” = “ما هو تنسيق التاريخ؟”;
+
+“If you want to know more, tap the URL button to check.\n\nexample:\nWednesday, May 19, 2021\nEEEE, MMM d, yyyy” = “إذا أردت معرفة المزيد، اضغط على زر الرابط للتحقق.\n\nمثال:\nWednesday, May 19, 2021\nEEEE, MMM d, yyyy”;
+
+“What is the Location format?” = “ما هو تنسيق الموقع؟”;
+
+“If you want to select another format, please check the url.” = “إذا كنت ترغب في اختيار تنسيق آخر، يرجى التحقق من الرابط.”;
+
+“Wallpaper Slideshow” = “عرض شرائح الخلفية”;
+
+“Time interval: %is” = “الفاصل الزمني: %i ثانية”;
+
+“Time interval: 2s” = “الفاصل الزمني: 2 ثواني”;
+
+“Set Interval” = “تعيين الفاصل الزمني”;
+
+“Wallpapers” = “الخلفيات”;
+
+“Wallpaper No.%d” = “خلفية رقم %d”;
+
+“Add Wallpaper” = “إضافة خلفية”;
+
+“ups! past the limit” = “لقد تجاوزت الحد!”;
+
+“You can put 5 wallpaper only.\ndelete an image so you can put a new one.” = “يمكنك وضع 5 خلفيات فقط.\nاحذف صورة لكي تتمكن من إضافة واحدة جديدة.”;
+
+“Widgets were not found.\nPlease download it first and then add it.” = “لم يتم العثور على الودجت.\nيرجى تنزيله أولاً ثم إضافته.”;
+
+“Reset Settings” = “إعادة تعيين الإعدادات”;
+
+/* إعدادات شاشة الترحيب */
+“Welcome to Airaw” = “مرحباً بك في Airaw”;
+
+“Airaw is a Tweak to give CarPlay Extension!!” = “Airaw هو تعديل لتوفير ملحق CarPlay!!”;
+
+“Status of support” = “حالة الدعم”;
+
+“Applications and settings are fully compatible with iOS14 and iOS15.” = “التطبيقات والإعدادات متوافقة بالكامل مع iOS14 وiOS15.”;
+
+“Convenient” = “الراحة”;
+
+“Customize your CarPlay screen as you like.” = “قم بتخصيص شاشة CarPlay الخاصة بك كما تحب.”;
+
+“If you liked the Tweak, help me with a donation by PayPal.” = “إذا أعجبك التعديل، ساعدني بالتبرع عبر PayPal.”;
+
+“Continue” = “استمرار”;
+
+“Apply” = “تطبيق”;
+
+“If you encounter a bug, don’t hesitate to report it! Please include your device and iOS version.” = “إذا واجهت أي خلل، لا تتردد في الإبلاغ عنه! يرجى ذكر نوع جهازك وإصدار iOS.”;
+
+“Other Functions” = “وظائف أخرى”;
+
+“CarPlay must be restarted for the change to take effect.” = “يجب إعادة تشغيل CarPlay حتى تصبح التغييرات نافذة.”;
+
+“The generation was successful.\nAdd a transparent icon with CarBridge.” = “تم الإنشاء بنجاح.\nأضف أيقونة شفافة مع CarBridge.”;
+
+“Success” = “نجاح”;
+
+“Creating icon…” = “جاري إنشاء الأيقونة…”;
+
+“Please wait” = “يرجى الانتظار”;
+
+“Retrieve battery information” = “استرجاع معلومات البطارية”;
+“Retrieve music information” = “استرجاع معلومات الموسيقى”;
+“Retrieve system information” = “استرجاع معلومات النظام”;
+“Retrieve statusbar information” = “استرجاع معلومات شريط الحالة”;
+“Retrieve weather information” = “استرجاع معلومات الطقس”;
+“Retrieve CarPlay information” = “استرجاع معلومات CarPlay”;
+“Colors Change” = “تغيير الألوان”;
+
+“If the Gif animation is too long, it may not be usable.” = “إذا كانت الرسوم المتحركة Gif طويلة جدًا، قد لا تكون قابلة للاستخدام.”;
+
+“Backup restored successfully\nMust be Respringed for changes to take effect.” = “تم استعادة النسخة الاحتياطية بنجاح\nيجب إعادة تشغيل الجهاز لتطبيق التغييرات.”;
+
+“\n All settings will be restored to default and device will respring. Continue?” = “\n سيتم استعادة كافة الإعدادات إلى الوضع الافتراضي وسيتم إعادة تشغيل الجهاز. هل ترغب في المتابعة؟”;
+
+“Lock Screen Dimming” = “تعتيم شاشة القفل”;
+
+“Lock Screen Dimming(Forced)” = “تعتيم شاشة القفل (إجباري)”;
+
+“If Lock Screen Dimming does not work, please use the (Forced) version.\nIf it is OFF, the application will not work properly.” = “إذا لم يعمل تعتيم شاشة القفل، يرجى استخدام النسخة (الإجبارية).\nإذا كان معطلاً، فلن تعمل التطبيقات بشكل صحيح.”;
+
+“Reset Color” = “إعادة تعيين اللون”;
