@@ -8,7 +8,7 @@
 
 "Respring" = "再起動";
 
-"Restart CarPlay" = "CarPlayを再起動";
+"Restart CarPlay" = "CarPlayの再起動";
 
 "Choose your option\nIf you just want to restart the CarPlay screen select the first option." = "オプションを選択してください\n CarPlay画面だけを再起動したいだけの場合は、最初のオプションを選択してください。";
 
@@ -48,11 +48,7 @@
 
 "App selection" = "アプリ選択";
 
-"Precautions" = "注意事項";
-
 "App to reflect" = "反映するアプリ";
-
-"The app selected in this way gets the app view in a different way than CarBridge.\nSo please note that it works differently from CarBridge." = "この方法で選択されたアプリの反映はCarBridgeとは異なります。\nですので、動作の違いが発生してしまいます。";
 
 "Backup/Restore" = "バックアップ/復元";
 
@@ -89,8 +85,6 @@
 "Create Backup" = "バックアップ作成";
 
 "Do you want to restore to \"%@\" ?" = "「%@」に復元しますか？";
-
-"Not all apps selected this way will work properly. Please note that some apps may not work.\n\nI haven't got an iOS 13 device, so I haven't been able to test it. It may not work properly." = "この方法で選択されたアプリは全部が正常に動作するわけではありません。中には動作しないアプリもあるので注意してください。\n\n※iOS13のデバイスを持ち合わせていないためテストができていません。正常な動作しない場合があります。";
 
 "Icon Layout" = "アイコンレイアウト";
 
@@ -171,7 +165,7 @@
 
 "Status of support" = "対応状況";
 
-"Applications and settings are fully compatible with iOS14 and iOS15." = "AirawはiOS14、およびiOS15と完全に互換性があります。";
+"Applications and settings are fully compatible with iOS14,iOS15 and iOS16." = "AirawはiOS14,iOS15、およびiOS16と完全に互換性があります。";
 
 "Convenient" = "便利さ";
 
@@ -218,3 +212,43 @@
 "If Lock Screen Dimming does not work, please use the (Forced) version.\nIf it is OFF, the application will not work properly." = "ロック画面の調光、動作しない方は(強制)バージョンをご使用ください。\nこちらがOFFですとアプリが正常に動作しません。";
 
 "Reset Color" = "色のリセット";
+
+"Per-App Settings" = "アプリ毎の設定";
+
+"Application launch mode" = "アプリ起動モード";
+
+"Disable Notch" = "ノッチの無効";
+
+"On devices with a notch, black borders may appear on the sides of the video during playback. The 'Disable Notch' option is designed to remove these black borders and display the video in full screen." = "ノッチのあるデバイスでは、動画の左右に黒い枠線が表示される場合があります。「ノッチの無効」はこの黒い枠線を非表示にし、動画を画面全体に表示するための設定です。";
+
+"libFLEX.dylib was not found.\nInstalling FLEX will enable the settings option." = "libFLEX.dylibが存在しませんでした。\nFLEXをインストールすることで設定項目が有効化されます。";
+
+"App Launch Method for 3D Touch" = "3D Touch時のアプリ起動方法";
+
+"Select Favorite Apps" = "お気に入りアプリの選択";
+
+"Enabled" = "有効化";
+
+"Search App Name" = "アプリ名で検索";
+
+"Favorite Apps" = "お気に入りアプリ";
+
+"Enabled Apps" = "有効アプリ";
+
+"Disabled Apps" = "無効アプリ";
+
+"CarBridge(FullScreen)" = "CarBridge(フルスクリーン)";
+
+"Launch with the default CarBridge settings." = "デフォルトの CarBridge 設定で起動します。";
+
+"Allows CarBridge to launch in full-screen mode.The app's launch method follows the settings in CarBridge." = "CarBridge をフルスクリーンで起動できるようにします。アプリの起動方法は、CarBridgeの設定に従います。";
+
+"Icon 3D Touch Settings" = "アイコン3Dタッチ設定";
+
+"Error" = "エラー";
+
+"Failed to save.\nPlease check if the following directory exists." = "保存に失敗しました。\n次のディレクトリが存在するか確認してください。";
+
+"Enable HTML Widget loading on iOS 16 and later." = "iOS 16 以降で HTML ウィジェットのロードを有効化する設定";
+
+"Enable widget loading" = "ウィジェットロードの有効化";

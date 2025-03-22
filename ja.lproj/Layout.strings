@@ -41,3 +41,17 @@
 "Icon Label Color" = "アイコンラベル色変更";
 
 "Hide Dots" = "ドット非表示";
+
+"Font Size : 11" = "フォントサイズ : 11";
+
+"Font Size : %i" = "フォントサイズ : %i";
+
+"Enabled" = "有効化";
+
+"Lighter" = "ライト";
+
+"Darker" = "ダーク";
+
+"Icon Badge Color Settings" = "バッジカラー設定";
+
+"Apply the badge color based on the average color of the app icon. You can choose from two patterns: light or dark color tones." = "アプリアイコンの平均色を元にバッジの色を適用します。平均色はライトまたはダークカラーのパターンから選択できます。";
